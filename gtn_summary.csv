@@ -1,0 +1,2 @@
+Columns,Rows,Missing Values
+"['station_name', 'station_no', 'station_id', 'station_latitude', 'station_longitude', 'station_status', 'river_name', 'station_elevation', 'CATCHMENT_SIZE', 'NAT_STA_ID', 'GRDCCOUNTRY']",324,"{'station_name': 0, 'station_no': 0, 'station_id': 0, 'station_latitude': 0, 'station_longitude': 0, 'station_status': 0, 'river_name': 0, 'station_elevation': 72, 'CATCHMENT_SIZE': 0, 'NAT_STA_ID': 18, 'GRDCCOUNTRY': 0}"

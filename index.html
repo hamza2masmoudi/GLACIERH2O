@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>🌍 GlacierH2O
+      </title>
+  <link rel="stylesheet" href="css/styles.css">
+  <script src="https://cdn.jsdelivr.net/npm/d3@7"></script>
+  <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
+  <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" />
+  <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+</head>
+<body>
+  <h1>🌍 GlacierH2O
+  </h1>
+
+  <div id="controls">
+    <div class="year-control">
+      <label for="year-input">Year:</label>
+      <input type="number" id="year-input" min="2000" max="2025" value="2000" step="1">
+      <input type="range" id="year-slider" min="2000" max="2025" value="2000" step="1">
+    </div>
+    <select id="basemap-select">
+      <option value="OpenStreetMap">OpenStreetMap</option>
+      <option value="Satellite">Satellite</option>
+      
+    </select>
+    <button id="dark-mode-toggle">🌙 Dark Mode</button>
+    <button id="download-btn">⬇️ Download Chart</button>
+  </div>
+
+  <div id="global-stats"></div>
+
+  <div id="container">
+    <div id="map-container"><div id="map"></div></div>
+    <div id="chart-container">
+      <canvas id="region-chart-1"></canvas> 
+      <canvas id="region-chart-2"></canvas> 
+      <canvas id="region-chart-3"></canvas> 
+    </div>
+  </div>
+
+  <script type="module" src="js/main.js"></script>
+</body>
+</html>
