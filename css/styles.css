@@ -45,6 +45,20 @@ h1 {
   box-shadow: var(--box-shadow);
 }
 
+.dark-mode #controls {
+  background-color: #34495e !important;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.4) !important;
+}
+
+.dark-mode #controls button, 
+.dark-mode #controls select, 
+.dark-mode #controls input,
+.dark-mode #controls label {
+  color: #ecf0f1 !important;
+  background-color: rgba(255, 255, 255, 0.1) !important;
+  border: 1px solid rgba(255, 255, 255, 0.2) !important;
+}
+
 .year-control {
   display: flex;
   align-items: center;
@@ -86,6 +100,7 @@ button:hover, select:hover, input:hover {
   flex: 1;
   max-width: 70%;
   height: 80vh;
+  position: relative; 
   border-radius: var(--border-radius);
   box-shadow: var(--box-shadow);
 }
@@ -94,47 +109,56 @@ button:hover, select:hover, input:hover {
   width: 100%;
   height: 100%;
   border-radius: var(--border-radius);
+  position: relative;
+  z-index: 1; 
 }
 
 #chart-container {
   flex: 1;
   max-width: 28%;
+  height: 80vh;
   display: flex;
   flex-direction: column;
   gap: 20px;
-  height: 80vh;
 }
 
-#region-chart-1, #region-chart-2 {
+#region-chart {
   width: 100%;
-  height: 220px;
+  height: 100%;
   border-radius: var(--border-radius);
   box-shadow: var(--box-shadow);
 }
 
-/* Legend */
+/* Legend Styles */
 #legend {
   position: absolute;
-  bottom: 15px;
+  top: 10px;
   right: 10px;
-  background-color: rgba(255, 255, 255, 0.8);
-  padding: 15px;
+  background-color: rgba(255, 255, 255, 0.9);
+  padding: 10px;
   border-radius: 8px;
   box-shadow: var(--box-shadow);
   font-weight: bold;
-  width: 220px;
+  width: 200px;
+  z-index: 1002; 
 }
 
-#legend .color-gradient {
-  width: 100%;
-  height: 20px;
-  background: linear-gradient(to right, #003366, #33cc33, #ff3300);
-  border-radius: 8px;
-  margin-bottom: 10px;
+#legend .legend-title {
+  text-align: center;
+  font-size: 14px;
+  margin-bottom: 8px;
 }
 
 #legend .legend-item {
   display: flex;
-  justify-content: space-between;
-  font-size: 12px;
+  align-items: center;
+  margin-bottom: 5px;
+}
+
+#legend .color-box {
+  width: 20px;
+  height: 20px;
+  margin-right: 8px;
+  border-radius: 4px;
+  border: 1px solid #ccc;
 }

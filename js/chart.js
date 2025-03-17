@@ -2,66 +2,90 @@ let chartInstance = null;
 
 export function updateChart(region, darkMode = false) {
   d3.json("data/glacier_data.json").then((data) => {
-    const regionData = data.filter(d => d.region === region).sort((a, b) => new Date(a.end_date) - new Date(b.end_date));
-    const globalData = data.sort((a, b) => new Date(a.end_date) - new Date(b.end_date));
+    // Filter data for the selected region
+    const regionData = data
+      .filter(d => d.region === region)
+      .sort((a, b) => new Date(a.end_date) - new Date(b.end_date));
+    
+    const ctx = document.getElementById("region-chart").getContext("2d");
 
-    const ctx1 = document.getElementById("region-chart-1").getContext("2d");
-    const ctx2 = document.getElementById("region-chart-2").getContext("2d");
+    // Destroy existing chart if it exists
+    if (chartInstance) {
+      chartInstance.destroy();
+    }
 
-    // Destroy existing charts
-    if (chartInstance) chartInstance.forEach(chart => chart.destroy());
-
+    // Determine text and grid colors based on dark mode
     const textColor = darkMode ? "#ecf0f1" : "#34495e";
     const gridColor = darkMode ? "rgba(255, 255, 255, 0.2)" : "rgba(0, 0, 0, 0.1)";
 
-    const commonOptions = {
+    // Chart options
+    const options = {
       responsive: true,
+      maintainAspectRatio: false,
       plugins: {
-        legend: { labels: { color: textColor } },
+        legend: {
+          labels: {
+            color: textColor
+          }
+        },
+        title: {
+          display: true,
+          text: region === 'global' ? 'Global Glacier Mass Change' : `${region.replace(/_/g, ' ')} Glacier Mass Change`,
+          font: {
+            size: 14
+          },
+          color: textColor
+        }
       },
       scales: {
-        x: { title: { display: true, text: "Year", color: textColor }, ticks: { color: textColor }, grid: { color: gridColor } },
-        y: { title: { display: true, text: "Mass Change (Gt)", color: textColor }, ticks: { color: textColor }, grid: { color: gridColor } },
-      },
+        x: {
+          title: {
+            display: true,
+            text: "Year",
+            color: textColor
+          },
+          ticks: {
+            color: textColor
+          },
+          grid: {
+            color: gridColor
+          }
+        },
+        y: {
+          title: {
+            display: true,
+            text: "Mass Change (Gt)",
+            color: textColor
+          },
+          ticks: {
+            color: textColor
+          },
+          grid: {
+            color: gridColor
+          }
+        }
+      }
     };
 
-    // Chart 1: Glacier Mass Change Over Time
-    const chart1 = new Chart(ctx1, {
+    // Create the chart
+    chartInstance = new Chart(ctx, {
       type: "line",
       data: {
         labels: regionData.map(d => d.end_date),
         datasets: [{
-          label: "Glacier Mass Change (Gt)",
+          label: region === 'global' ? "Global Glacier Mass Change" : `${region.replace(/_/g, ' ')} Glacier Mass Change`,
           data: regionData.map(d => d.glacier_mass_change),
           borderColor: "#3498db",
           backgroundColor: "rgba(52, 152, 219, 0.2)",
           fill: true,
           tension: 0.4,
-        }],
+          pointRadius: 3,
+          pointBackgroundColor: "#3498db"
+        }]
       },
-      options: commonOptions,
+      options: options
     });
-
-    // Chart 2: Global Area vs. Mass Change
-    const chart2 = new Chart(ctx2, {
-      type: "scatter",
-      data: {
-        datasets: [{
-          label: "Global Area vs. Mass Change",
-          data: globalData.map(d => ({ x: d.glacier_area, y: d.glacier_mass_change })),
-          backgroundColor: "rgba(46, 204, 113, 0.5)",
-          pointRadius: 6,
-        }],
-      },
-      options: {
-        ...commonOptions,
-        scales: {
-          x: { title: { display: true, text: "Glacier Area (km²)", color: textColor }, ticks: { color: textColor }, grid: { color: gridColor } },
-          y: { title: { display: true, text: "Mass Change (Gt)", color: textColor }, ticks: { color: textColor }, grid: { color: gridColor } },
-        },
-      },
-    });
-
-    chartInstance = [chart1, chart2];
   });
 }
+
+export { chartInstance };
