@@ -1,0 +1,4562 @@
+[
+    {
+        "region": "12_caucasus_middle_east",
+        "start_date": 2000.0,
+        "end_date": 2001.0,
+        "glacier_area": 1282.75515,
+        "glacier_mass_change": -1.5256898932375544,
+        "simulated_discharge": 441.54079982858934,
+        "latitude": 42.0,
+        "longitude": 45.0
+    },
+    {
+        "region": "12_caucasus_middle_east",
+        "start_date": 2001.0,
+        "end_date": 2002.0,
+        "glacier_area": 1275.82805,
+        "glacier_mass_change": -0.7523721686565512,
+        "simulated_discharge": 283.5918221724801,
+        "latitude": 42.0,
+        "longitude": 45.0
+    },
+    {
+        "region": "12_caucasus_middle_east",
+        "start_date": 2002.0,
+        "end_date": 2003.0,
+        "glacier_area": 1268.90095,
+        "glacier_mass_change": 0.3736522375370595,
+        "simulated_discharge": 53.60303732926075,
+        "latitude": 42.0,
+        "longitude": 45.0
+    },
+    {
+        "region": "12_caucasus_middle_east",
+        "start_date": 2003.0,
+        "end_date": 2004.0,
+        "glacier_area": 1261.97385,
+        "glacier_mass_change": 0.3913096299000091,
+        "simulated_discharge": 49.996541599046154,
+        "latitude": 42.0,
+        "longitude": 45.0
+    },
+    {
+        "region": "12_caucasus_middle_east",
+        "start_date": 2004.0,
+        "end_date": 2005.0,
+        "glacier_area": 1255.04675,
+        "glacier_mass_change": 0.6360925487896292,
+        "simulated_discharge": 0.0,
+        "latitude": 42.0,
+        "longitude": 45.0
+    },
+    {
+        "region": "12_caucasus_middle_east",
+        "start_date": 2005.0,
+        "end_date": 2006.0,
+        "glacier_area": 1248.11965,
+        "glacier_mass_change": 0.2166234935187321,
+        "simulated_discharge": 85.67592120600898,
+        "latitude": 42.0,
+        "longitude": 45.0
+    },
+    {
+        "region": "12_caucasus_middle_east",
+        "start_date": 2006.0,
+        "end_date": 2007.0,
+        "glacier_area": 1241.19255,
+        "glacier_mass_change": -1.0808310207835916,
+        "simulated_discharge": 350.6790467976166,
+        "latitude": 42.0,
+        "longitude": 45.0
+    },
+    {
+        "region": "12_caucasus_middle_east",
+        "start_date": 2007.0,
+        "end_date": 2008.0,
+        "glacier_area": 1234.26545,
+        "glacier_mass_change": -1.5967452192637428,
+        "simulated_discharge": 456.05374288694077,
+        "latitude": 42.0,
+        "longitude": 45.0
+    },
+    {
+        "region": "12_caucasus_middle_east",
+        "start_date": 2008.0,
+        "end_date": 2009.0,
+        "glacier_area": 1227.33835,
+        "glacier_mass_change": -0.5404262217384886,
+        "simulated_discharge": 240.3021825199011,
+        "latitude": 42.0,
+        "longitude": 45.0
+    },
+    {
+        "region": "12_caucasus_middle_east",
+        "start_date": 2009.0,
+        "end_date": 2010.0,
+        "glacier_area": 1220.41125,
+        "glacier_mass_change": -0.4336528707431656,
+        "simulated_discharge": 218.49388679026964,
+        "latitude": 42.0,
+        "longitude": 45.0
+    },
+    {
+        "region": "12_caucasus_middle_east",
+        "start_date": 2010.0,
+        "end_date": 2011.0,
+        "glacier_area": 1213.48415,
+        "glacier_mass_change": -0.8591613718604939,
+        "simulated_discharge": 305.40335569178774,
+        "latitude": 42.0,
+        "longitude": 45.0
+    },
+    {
+        "region": "12_caucasus_middle_east",
+        "start_date": 2011.0,
+        "end_date": 2012.0,
+        "glacier_area": 1206.55705,
+        "glacier_mass_change": -0.7173569958488278,
+        "simulated_discharge": 276.4400259939708,
+        "latitude": 42.0,
+        "longitude": 45.0
+    },
+    {
+        "region": "12_caucasus_middle_east",
+        "start_date": 2012.0,
+        "end_date": 2013.0,
+        "glacier_area": 1199.62995,
+        "glacier_mass_change": -1.8119059633143595,
+        "simulated_discharge": 500.0,
+        "latitude": 42.0,
+        "longitude": 45.0
+    },
+    {
+        "region": "12_caucasus_middle_east",
+        "start_date": 2013.0,
+        "end_date": 2014.0,
+        "glacier_area": 1192.70285,
+        "glacier_mass_change": -0.2524468555698191,
+        "simulated_discharge": 181.48283178403014,
+        "latitude": 42.0,
+        "longitude": 45.0
+    },
+    {
+        "region": "12_caucasus_middle_east",
+        "start_date": 2014.0,
+        "end_date": 2015.0,
+        "glacier_area": 1185.77575,
+        "glacier_mass_change": -1.3141644056080215,
+        "simulated_discharge": 398.3370383508643,
+        "latitude": 42.0,
+        "longitude": 45.0
+    },
+    {
+        "region": "12_caucasus_middle_east",
+        "start_date": 2015.0,
+        "end_date": 2016.0,
+        "glacier_area": 1178.84865,
+        "glacier_mass_change": -1.5419156322181675,
+        "simulated_discharge": 444.85488251703583,
+        "latitude": 42.0,
+        "longitude": 45.0
+    },
+    {
+        "region": "12_caucasus_middle_east",
+        "start_date": 2016.0,
+        "end_date": 2017.0,
+        "glacier_area": 1171.92155,
+        "glacier_mass_change": -0.7850001980956869,
+        "simulated_discharge": 290.25604792217075,
+        "latitude": 42.0,
+        "longitude": 45.0
+    },
+    {
+        "region": "12_caucasus_middle_east",
+        "start_date": 2017.0,
+        "end_date": 2018.0,
+        "glacier_area": 1164.99445,
+        "glacier_mass_change": -0.835159306231931,
+        "simulated_discharge": 300.50097002654195,
+        "latitude": 42.0,
+        "longitude": 45.0
+    },
+    {
+        "region": "12_caucasus_middle_east",
+        "start_date": 2018.0,
+        "end_date": 2019.0,
+        "glacier_area": 1158.06735,
+        "glacier_mass_change": -0.7279796066933246,
+        "simulated_discharge": 278.6096782204681,
+        "latitude": 42.0,
+        "longitude": 45.0
+    },
+    {
+        "region": "12_caucasus_middle_east",
+        "start_date": 2019.0,
+        "end_date": 2020.0,
+        "glacier_area": 1151.14025,
+        "glacier_mass_change": -0.9227565189113288,
+        "simulated_discharge": 318.39256845813384,
+        "latitude": 42.0,
+        "longitude": 45.0
+    },
+    {
+        "region": "12_caucasus_middle_east",
+        "start_date": 2020.0,
+        "end_date": 2021.0,
+        "glacier_area": 1144.21315,
+        "glacier_mass_change": -1.5198827979446523,
+        "simulated_discharge": 440.3547093828253,
+        "latitude": 42.0,
+        "longitude": 45.0
+    },
+    {
+        "region": "12_caucasus_middle_east",
+        "start_date": 2021.0,
+        "end_date": 2022.0,
+        "glacier_area": 1137.28605,
+        "glacier_mass_change": -0.4267280863623179,
+        "simulated_discharge": 217.07951003582954,
+        "latitude": 42.0,
+        "longitude": 45.0
+    },
+    {
+        "region": "12_caucasus_middle_east",
+        "start_date": 2022.0,
+        "end_date": 2023.0,
+        "glacier_area": 1130.35895,
+        "glacier_mass_change": -0.9122480213138148,
+        "simulated_discharge": 316.2462236900395,
+        "latitude": 42.0,
+        "longitude": 45.0
+    },
+    {
+        "region": "12_caucasus_middle_east",
+        "start_date": 2023.0,
+        "end_date": 2024.0,
+        "glacier_area": 1123.43185,
+        "glacier_mass_change": -0.7397455813287596,
+        "simulated_discharge": 281.0128607749629,
+        "latitude": 42.0,
+        "longitude": 45.0
+    },
+    {
+        "region": "17_southern_andes",
+        "start_date": 2000.0,
+        "end_date": 2001.0,
+        "glacier_area": 29402.5139,
+        "glacier_mass_change": 1.6621530202778638,
+        "simulated_discharge": 39.78721260233215,
+        "latitude": -40.0,
+        "longitude": -70.0
+    },
+    {
+        "region": "17_southern_andes",
+        "start_date": 2001.0,
+        "end_date": 2002.0,
+        "glacier_area": 29349.5417,
+        "glacier_mass_change": -13.891168790717536,
+        "simulated_discharge": 143.82855042238168,
+        "latitude": -40.0,
+        "longitude": -70.0
+    },
+    {
+        "region": "17_southern_andes",
+        "start_date": 2002.0,
+        "end_date": 2003.0,
+        "glacier_area": 29296.5695,
+        "glacier_mass_change": -4.276535598304034,
+        "simulated_discharge": 79.51307414383008,
+        "latitude": -40.0,
+        "longitude": -70.0
+    },
+    {
+        "region": "17_southern_andes",
+        "start_date": 2003.0,
+        "end_date": 2004.0,
+        "glacier_area": 29243.5973,
+        "glacier_mass_change": -27.16845138254913,
+        "simulated_discharge": 232.64470559847038,
+        "latitude": -40.0,
+        "longitude": -70.0
+    },
+    {
+        "region": "17_southern_andes",
+        "start_date": 2004.0,
+        "end_date": 2005.0,
+        "glacier_area": 29190.6251,
+        "glacier_mass_change": 2.950386466804427,
+        "simulated_discharge": 31.16979101034756,
+        "latitude": -40.0,
+        "longitude": -70.0
+    },
+    {
+        "region": "17_southern_andes",
+        "start_date": 2005.0,
+        "end_date": 2006.0,
+        "glacier_area": 29137.6529,
+        "glacier_mass_change": -49.94872117965508,
+        "simulated_discharge": 385.0294999461986,
+        "latitude": -40.0,
+        "longitude": -70.0
+    },
+    {
+        "region": "17_southern_andes",
+        "start_date": 2006.0,
+        "end_date": 2007.0,
+        "glacier_area": 29084.6807,
+        "glacier_mass_change": -25.498355751885686,
+        "simulated_discharge": 221.4728809674899,
+        "latitude": -40.0,
+        "longitude": -70.0
+    },
+    {
+        "region": "17_southern_andes",
+        "start_date": 2007.0,
+        "end_date": 2008.0,
+        "glacier_area": 29031.7085,
+        "glacier_mass_change": -34.04845631063346,
+        "simulated_discharge": 278.6673447250131,
+        "latitude": -40.0,
+        "longitude": -70.0
+    },
+    {
+        "region": "17_southern_andes",
+        "start_date": 2008.0,
+        "end_date": 2009.0,
+        "glacier_area": 28978.7363,
+        "glacier_mass_change": -24.53194697778392,
+        "simulated_discharge": 215.00825154874408,
+        "latitude": -40.0,
+        "longitude": -70.0
+    },
+    {
+        "region": "17_southern_andes",
+        "start_date": 2009.0,
+        "end_date": 2010.0,
+        "glacier_area": 28925.7641,
+        "glacier_mass_change": 6.37479807413442,
+        "simulated_discharge": 8.262763868322809,
+        "latitude": -40.0,
+        "longitude": -70.0
+    },
+    {
+        "region": "17_southern_andes",
+        "start_date": 2010.0,
+        "end_date": 2011.0,
+        "glacier_area": 28872.7919,
+        "glacier_mass_change": -48.57203133766705,
+        "simulated_discharge": 375.82036413172267,
+        "latitude": -40.0,
+        "longitude": -70.0
+    },
+    {
+        "region": "17_southern_andes",
+        "start_date": 2011.0,
+        "end_date": 2012.0,
+        "glacier_area": 28819.8197,
+        "glacier_mass_change": -60.086977800912216,
+        "simulated_discharge": 452.847667335552,
+        "latitude": -40.0,
+        "longitude": -70.0
+    },
+    {
+        "region": "17_southern_andes",
+        "start_date": 2012.0,
+        "end_date": 2013.0,
+        "glacier_area": 28766.8475,
+        "glacier_mass_change": -26.839376086207103,
+        "simulated_discharge": 230.44341159253335,
+        "latitude": -40.0,
+        "longitude": -70.0
+    },
+    {
+        "region": "17_southern_andes",
+        "start_date": 2013.0,
+        "end_date": 2014.0,
+        "glacier_area": 28713.8753,
+        "glacier_mass_change": 7.61001311639548,
+        "simulated_discharge": 0.0,
+        "latitude": -40.0,
+        "longitude": -70.0
+    },
+    {
+        "region": "17_southern_andes",
+        "start_date": 2014.0,
+        "end_date": 2015.0,
+        "glacier_area": 28660.9031,
+        "glacier_mass_change": 4.985710861841842,
+        "simulated_discharge": 17.55482981229839,
+        "latitude": -40.0,
+        "longitude": -70.0
+    },
+    {
+        "region": "17_southern_andes",
+        "start_date": 2015.0,
+        "end_date": 2016.0,
+        "glacier_area": 28607.9309,
+        "glacier_mass_change": -37.60738322194243,
+        "simulated_discharge": 302.47418943355603,
+        "latitude": -40.0,
+        "longitude": -70.0
+    },
+    {
+        "region": "17_southern_andes",
+        "start_date": 2016.0,
+        "end_date": 2017.0,
+        "glacier_area": 28554.9587,
+        "glacier_mass_change": -67.135862594548,
+        "simulated_discharge": 500.0,
+        "latitude": -40.0,
+        "longitude": -70.0
+    },
+    {
+        "region": "17_southern_andes",
+        "start_date": 2017.0,
+        "end_date": 2018.0,
+        "glacier_area": 28501.9865,
+        "glacier_mass_change": -22.636310348294185,
+        "simulated_discharge": 202.32770823140766,
+        "latitude": -40.0,
+        "longitude": -70.0
+    },
+    {
+        "region": "17_southern_andes",
+        "start_date": 2018.0,
+        "end_date": 2019.0,
+        "glacier_area": 28449.0143,
+        "glacier_mass_change": -40.53808128665813,
+        "simulated_discharge": 322.0786026325482,
+        "latitude": -40.0,
+        "longitude": -70.0
+    },
+    {
+        "region": "17_southern_andes",
+        "start_date": 2019.0,
+        "end_date": 2020.0,
+        "glacier_area": 28396.0421,
+        "glacier_mass_change": -28.156311429256267,
+        "simulated_discharge": 239.2528297077348,
+        "latitude": -40.0,
+        "longitude": -70.0
+    },
+    {
+        "region": "17_southern_andes",
+        "start_date": 2020.0,
+        "end_date": 2021.0,
+        "glacier_area": 28343.0699,
+        "glacier_mass_change": -27.999018663858664,
+        "simulated_discharge": 238.2006461330458,
+        "latitude": -40.0,
+        "longitude": -70.0
+    },
+    {
+        "region": "17_southern_andes",
+        "start_date": 2021.0,
+        "end_date": 2022.0,
+        "glacier_area": 28290.0977,
+        "glacier_mass_change": -24.094368057838505,
+        "simulated_discharge": 212.0811407497643,
+        "latitude": -40.0,
+        "longitude": -70.0
+    },
+    {
+        "region": "17_southern_andes",
+        "start_date": 2022.0,
+        "end_date": 2023.0,
+        "glacier_area": 28237.1255,
+        "glacier_mass_change": -41.30439245425599,
+        "simulated_discharge": 327.2047126707885,
+        "latitude": -40.0,
+        "longitude": -70.0
+    },
+    {
+        "region": "17_southern_andes",
+        "start_date": 2023.0,
+        "end_date": 2024.0,
+        "glacier_area": 28184.1533,
+        "glacier_mass_change": -50.03848428365572,
+        "simulated_discharge": 385.6299551763157,
+        "latitude": -40.0,
+        "longitude": -70.0
+    },
+    {
+        "region": "1_alaska",
+        "start_date": 2000.0,
+        "end_date": 2001.0,
+        "glacier_area": 89847.1,
+        "glacier_mass_change": 45.88379869548132,
+        "simulated_discharge": 23.805723155657432,
+        "latitude": 64.2008,
+        "longitude": -149.4937
+    },
+    {
+        "region": "1_alaska",
+        "start_date": 2001.0,
+        "end_date": 2002.0,
+        "glacier_area": 89430.82,
+        "glacier_mass_change": -27.10431231414758,
+        "simulated_discharge": 205.9190572788309,
+        "latitude": 64.2008,
+        "longitude": -149.4937
+    },
+    {
+        "region": "1_alaska",
+        "start_date": 2002.0,
+        "end_date": 2003.0,
+        "glacier_area": 89014.54,
+        "glacier_mass_change": -49.090521732004326,
+        "simulated_discharge": 260.77705875920884,
+        "latitude": 64.2008,
+        "longitude": -149.4937
+    },
+    {
+        "region": "1_alaska",
+        "start_date": 2003.0,
+        "end_date": 2004.0,
+        "glacier_area": 88598.26,
+        "glacier_mass_change": -60.38343349383753,
+        "simulated_discharge": 288.95411094562496,
+        "latitude": 64.2008,
+        "longitude": -149.4937
+    },
+    {
+        "region": "1_alaska",
+        "start_date": 2004.0,
+        "end_date": 2005.0,
+        "glacier_area": 88181.98,
+        "glacier_mass_change": -139.61243654977957,
+        "simulated_discharge": 486.6391545257941,
+        "latitude": 64.2008,
+        "longitude": -149.4937
+    },
+    {
+        "region": "1_alaska",
+        "start_date": 2005.0,
+        "end_date": 2006.0,
+        "glacier_area": 87765.7,
+        "glacier_mass_change": -75.9364588983793,
+        "simulated_discharge": 327.76061344231044,
+        "latitude": 64.2008,
+        "longitude": -149.4937
+    },
+    {
+        "region": "1_alaska",
+        "start_date": 2006.0,
+        "end_date": 2007.0,
+        "glacier_area": 87349.42,
+        "glacier_mass_change": -33.62467247388402,
+        "simulated_discharge": 222.18807029955235,
+        "latitude": 64.2008,
+        "longitude": -149.4937
+    },
+    {
+        "region": "1_alaska",
+        "start_date": 2007.0,
+        "end_date": 2008.0,
+        "glacier_area": 86933.14,
+        "glacier_mass_change": -49.64964952566811,
+        "simulated_discharge": 262.17214386685896,
+        "latitude": 64.2008,
+        "longitude": -149.4937
+    },
+    {
+        "region": "1_alaska",
+        "start_date": 2008.0,
+        "end_date": 2009.0,
+        "glacier_area": 86516.86,
+        "glacier_mass_change": 36.92273833725146,
+        "simulated_discharge": 46.16455059401853,
+        "latitude": 64.2008,
+        "longitude": -149.4937
+    },
+    {
+        "region": "1_alaska",
+        "start_date": 2009.0,
+        "end_date": 2010.0,
+        "glacier_area": 86100.58,
+        "glacier_mass_change": -91.88170145027088,
+        "simulated_discharge": 367.5457406960435,
+        "latitude": 64.2008,
+        "longitude": -149.4937
+    },
+    {
+        "region": "1_alaska",
+        "start_date": 2010.0,
+        "end_date": 2011.0,
+        "glacier_area": 85684.3,
+        "glacier_mass_change": -73.86920837996944,
+        "simulated_discharge": 322.60259689457695,
+        "latitude": 64.2008,
+        "longitude": -149.4937
+    },
+    {
+        "region": "1_alaska",
+        "start_date": 2011.0,
+        "end_date": 2012.0,
+        "glacier_area": 85268.02,
+        "glacier_mass_change": -45.5027751725263,
+        "simulated_discharge": 251.82523799144997,
+        "latitude": 64.2008,
+        "longitude": -149.4937
+    },
+    {
+        "region": "1_alaska",
+        "start_date": 2012.0,
+        "end_date": 2013.0,
+        "glacier_area": 84851.74,
+        "glacier_mass_change": 55.42475171089546,
+        "simulated_discharge": 0.0,
+        "latitude": 64.2008,
+        "longitude": -149.4937
+    },
+    {
+        "region": "1_alaska",
+        "start_date": 2013.0,
+        "end_date": 2014.0,
+        "glacier_area": 84435.46,
+        "glacier_mass_change": -119.81656842938212,
+        "simulated_discharge": 437.2462945736764,
+        "latitude": 64.2008,
+        "longitude": -149.4937
+    },
+    {
+        "region": "1_alaska",
+        "start_date": 2014.0,
+        "end_date": 2015.0,
+        "glacier_area": 84019.18,
+        "glacier_mass_change": -96.90050239940116,
+        "simulated_discharge": 380.068198963611,
+        "latitude": 64.2008,
+        "longitude": -149.4937
+    },
+    {
+        "region": "1_alaska",
+        "start_date": 2015.0,
+        "end_date": 2016.0,
+        "glacier_area": 83602.9,
+        "glacier_mass_change": -73.32394274102282,
+        "simulated_discharge": 321.24209938179337,
+        "latitude": 64.2008,
+        "longitude": -149.4937
+    },
+    {
+        "region": "1_alaska",
+        "start_date": 2016.0,
+        "end_date": 2017.0,
+        "glacier_area": 83186.62,
+        "glacier_mass_change": -92.27650551738216,
+        "simulated_discharge": 368.5308201013392,
+        "latitude": 64.2008,
+        "longitude": -149.4937
+    },
+    {
+        "region": "1_alaska",
+        "start_date": 2017.0,
+        "end_date": 2018.0,
+        "glacier_area": 82770.34,
+        "glacier_mass_change": -83.06911803362412,
+        "simulated_discharge": 345.557379495239,
+        "latitude": 64.2008,
+        "longitude": -149.4937
+    },
+    {
+        "region": "1_alaska",
+        "start_date": 2018.0,
+        "end_date": 2019.0,
+        "glacier_area": 82354.06,
+        "glacier_mass_change": -108.99297703385028,
+        "simulated_discharge": 410.2402481236298,
+        "latitude": 64.2008,
+        "longitude": -149.4937
+    },
+    {
+        "region": "1_alaska",
+        "start_date": 2019.0,
+        "end_date": 2020.0,
+        "glacier_area": 81937.78,
+        "glacier_mass_change": -144.96724967946653,
+        "simulated_discharge": 500.0,
+        "latitude": 64.2008,
+        "longitude": -149.4937
+    },
+    {
+        "region": "1_alaska",
+        "start_date": 2020.0,
+        "end_date": 2021.0,
+        "glacier_area": 81521.5,
+        "glacier_mass_change": -49.20877235678205,
+        "simulated_discharge": 261.0721070245021,
+        "latitude": 64.2008,
+        "longitude": -149.4937
+    },
+    {
+        "region": "1_alaska",
+        "start_date": 2021.0,
+        "end_date": 2022.0,
+        "glacier_area": 81105.22,
+        "glacier_mass_change": -31.22685347401838,
+        "simulated_discharge": 216.20524917089185,
+        "latitude": 64.2008,
+        "longitude": -149.4937
+    },
+    {
+        "region": "1_alaska",
+        "start_date": 2022.0,
+        "end_date": 2023.0,
+        "glacier_area": 80688.94,
+        "glacier_mass_change": -64.91355586052026,
+        "simulated_discharge": 300.2572626064991,
+        "latitude": 64.2008,
+        "longitude": -149.4937
+    },
+    {
+        "region": "1_alaska",
+        "start_date": 2023.0,
+        "end_date": 2024.0,
+        "glacier_area": 80272.66,
+        "glacier_mass_change": -100.73996979950844,
+        "simulated_discharge": 389.6480908092641,
+        "latitude": 64.2008,
+        "longitude": -149.4937
+    },
+    {
+        "region": "19_antarctic_and_subantarctic",
+        "start_date": 2000.0,
+        "end_date": 2001.0,
+        "glacier_area": 127665.25695,
+        "glacier_mass_change": -18.995791012237024,
+        "simulated_discharge": 268.3598393611416,
+        "latitude": -75.0,
+        "longitude": 0.0
+    },
+    {
+        "region": "19_antarctic_and_subantarctic",
+        "start_date": 2001.0,
+        "end_date": 2002.0,
+        "glacier_area": 127306.51605,
+        "glacier_mass_change": -31.129658086054757,
+        "simulated_discharge": 312.8403226394306,
+        "latitude": -75.0,
+        "longitude": 0.0
+    },
+    {
+        "region": "19_antarctic_and_subantarctic",
+        "start_date": 2002.0,
+        "end_date": 2003.0,
+        "glacier_area": 126947.77515,
+        "glacier_mass_change": -16.125234566354507,
+        "simulated_discharge": 257.83691726106554,
+        "latitude": -75.0,
+        "longitude": 0.0
+    },
+    {
+        "region": "19_antarctic_and_subantarctic",
+        "start_date": 2003.0,
+        "end_date": 2004.0,
+        "glacier_area": 126589.03425,
+        "glacier_mass_change": -29.725715486761946,
+        "simulated_discharge": 307.6937321146118,
+        "latitude": -75.0,
+        "longitude": 0.0
+    },
+    {
+        "region": "19_antarctic_and_subantarctic",
+        "start_date": 2004.0,
+        "end_date": 2005.0,
+        "glacier_area": 126230.29335,
+        "glacier_mass_change": 10.490007275767162,
+        "simulated_discharge": 160.2704273280563,
+        "latitude": -75.0,
+        "longitude": 0.0
+    },
+    {
+        "region": "19_antarctic_and_subantarctic",
+        "start_date": 2005.0,
+        "end_date": 2006.0,
+        "glacier_area": 125871.55245,
+        "glacier_mass_change": -0.2061686008879221,
+        "simulated_discharge": 199.48060404490903,
+        "latitude": -75.0,
+        "longitude": 0.0
+    },
+    {
+        "region": "19_antarctic_and_subantarctic",
+        "start_date": 2006.0,
+        "end_date": 2007.0,
+        "glacier_area": 125512.81155,
+        "glacier_mass_change": -82.18509811946437,
+        "simulated_discharge": 500.0,
+        "latitude": -75.0,
+        "longitude": 0.0
+    },
+    {
+        "region": "19_antarctic_and_subantarctic",
+        "start_date": 2007.0,
+        "end_date": 2008.0,
+        "glacier_area": 125154.07065,
+        "glacier_mass_change": -11.470246634669804,
+        "simulated_discharge": 240.77260366703246,
+        "latitude": -75.0,
+        "longitude": 0.0
+    },
+    {
+        "region": "19_antarctic_and_subantarctic",
+        "start_date": 2008.0,
+        "end_date": 2009.0,
+        "glacier_area": 124795.32975,
+        "glacier_mass_change": -9.881790656837852,
+        "simulated_discharge": 234.94962166711332,
+        "latitude": -75.0,
+        "longitude": 0.0
+    },
+    {
+        "region": "19_antarctic_and_subantarctic",
+        "start_date": 2009.0,
+        "end_date": 2010.0,
+        "glacier_area": 124436.58885,
+        "glacier_mass_change": -20.936619711003868,
+        "simulated_discharge": 275.4745537350778,
+        "latitude": -75.0,
+        "longitude": 0.0
+    },
+    {
+        "region": "19_antarctic_and_subantarctic",
+        "start_date": 2010.0,
+        "end_date": 2011.0,
+        "glacier_area": 124077.84795,
+        "glacier_mass_change": 54.21030700577958,
+        "simulated_discharge": 0.0,
+        "latitude": -75.0,
+        "longitude": 0.0
+    },
+    {
+        "region": "19_antarctic_and_subantarctic",
+        "start_date": 2011.0,
+        "end_date": 2012.0,
+        "glacier_area": 123719.10705,
+        "glacier_mass_change": -23.802465555915493,
+        "simulated_discharge": 285.98020765457784,
+        "latitude": -75.0,
+        "longitude": 0.0
+    },
+    {
+        "region": "19_antarctic_and_subantarctic",
+        "start_date": 2012.0,
+        "end_date": 2013.0,
+        "glacier_area": 123360.36615,
+        "glacier_mass_change": -7.772400110473913,
+        "simulated_discharge": 227.21699114181442,
+        "latitude": -75.0,
+        "longitude": 0.0
+    },
+    {
+        "region": "19_antarctic_and_subantarctic",
+        "start_date": 2013.0,
+        "end_date": 2014.0,
+        "glacier_area": 123001.62525,
+        "glacier_mass_change": -50.85851340701423,
+        "simulated_discharge": 385.16260982661123,
+        "latitude": -75.0,
+        "longitude": 0.0
+    },
+    {
+        "region": "19_antarctic_and_subantarctic",
+        "start_date": 2014.0,
+        "end_date": 2015.0,
+        "glacier_area": 122642.88435,
+        "glacier_mass_change": 20.7809251461336,
+        "simulated_discharge": 122.54585053268369,
+        "latitude": -75.0,
+        "longitude": 0.0
+    },
+    {
+        "region": "19_antarctic_and_subantarctic",
+        "start_date": 2015.0,
+        "end_date": 2016.0,
+        "glacier_area": 122284.14345,
+        "glacier_mass_change": 3.1301780762685625,
+        "simulated_discharge": 187.2501822279391,
+        "latitude": -75.0,
+        "longitude": 0.0
+    },
+    {
+        "region": "19_antarctic_and_subantarctic",
+        "start_date": 2016.0,
+        "end_date": 2017.0,
+        "glacier_area": 121925.40255,
+        "glacier_mass_change": 32.89845255203744,
+        "simulated_discharge": 78.12526541554938,
+        "latitude": -75.0,
+        "longitude": 0.0
+    },
+    {
+        "region": "19_antarctic_and_subantarctic",
+        "start_date": 2017.0,
+        "end_date": 2018.0,
+        "glacier_area": 121566.66165,
+        "glacier_mass_change": -47.9765486112687,
+        "simulated_discharge": 374.597866853418,
+        "latitude": -75.0,
+        "longitude": 0.0
+    },
+    {
+        "region": "19_antarctic_and_subantarctic",
+        "start_date": 2018.0,
+        "end_date": 2019.0,
+        "glacier_area": 121207.92075,
+        "glacier_mass_change": -26.68093690435365,
+        "simulated_discharge": 296.53214430447827,
+        "latitude": -75.0,
+        "longitude": 0.0
+    },
+    {
+        "region": "19_antarctic_and_subantarctic",
+        "start_date": 2019.0,
+        "end_date": 2020.0,
+        "glacier_area": 120849.17985,
+        "glacier_mass_change": 45.08614127117214,
+        "simulated_discharge": 33.44748206960946,
+        "latitude": -75.0,
+        "longitude": 0.0
+    },
+    {
+        "region": "19_antarctic_and_subantarctic",
+        "start_date": 2020.0,
+        "end_date": 2021.0,
+        "glacier_area": 120490.43895,
+        "glacier_mass_change": -77.34985364357878,
+        "simulated_discharge": 482.27489968798557,
+        "latitude": -75.0,
+        "longitude": 0.0
+    },
+    {
+        "region": "19_antarctic_and_subantarctic",
+        "start_date": 2021.0,
+        "end_date": 2022.0,
+        "glacier_area": 120131.69805,
+        "glacier_mass_change": -31.329553932028546,
+        "simulated_discharge": 313.57310335807074,
+        "latitude": -75.0,
+        "longitude": 0.0
+    },
+    {
+        "region": "19_antarctic_and_subantarctic",
+        "start_date": 2022.0,
+        "end_date": 2023.0,
+        "glacier_area": 119772.95715,
+        "glacier_mass_change": -47.739787569614585,
+        "simulated_discharge": 373.7299452345163,
+        "latitude": -75.0,
+        "longitude": 0.0
+    },
+    {
+        "region": "19_antarctic_and_subantarctic",
+        "start_date": 2023.0,
+        "end_date": 2024.0,
+        "glacier_area": 119414.21625,
+        "glacier_mass_change": -60.08931641518733,
+        "simulated_discharge": 419.00100416143863,
+        "latitude": -75.0,
+        "longitude": 0.0
+    },
+    {
+        "region": "9_russian_arctic",
+        "start_date": 2000.0,
+        "end_date": 2001.0,
+        "glacier_area": 51612.6368,
+        "glacier_mass_change": 8.519843072055021,
+        "simulated_discharge": 0.0,
+        "latitude": 70.0,
+        "longitude": 100.0
+    },
+    {
+        "region": "9_russian_arctic",
+        "start_date": 2001.0,
+        "end_date": 2002.0,
+        "glacier_area": 51571.3632,
+        "glacier_mass_change": -10.13503584712864,
+        "simulated_discharge": 135.17132164984503,
+        "latitude": 70.0,
+        "longitude": 100.0
+    },
+    {
+        "region": "9_russian_arctic",
+        "start_date": 2002.0,
+        "end_date": 2003.0,
+        "glacier_area": 51530.0896,
+        "glacier_mass_change": -7.559339588150589,
+        "simulated_discharge": 116.50809317203404,
+        "latitude": 70.0,
+        "longitude": 100.0
+    },
+    {
+        "region": "9_russian_arctic",
+        "start_date": 2003.0,
+        "end_date": 2004.0,
+        "glacier_area": 51488.816,
+        "glacier_mass_change": -8.908960921205653,
+        "simulated_discharge": 126.28730964972861,
+        "latitude": 70.0,
+        "longitude": 100.0
+    },
+    {
+        "region": "9_russian_arctic",
+        "start_date": 2004.0,
+        "end_date": 2005.0,
+        "glacier_area": 51447.5424,
+        "glacier_mass_change": -25.41459065221258,
+        "simulated_discharge": 245.88539415452016,
+        "latitude": 70.0,
+        "longitude": 100.0
+    },
+    {
+        "region": "9_russian_arctic",
+        "start_date": 2005.0,
+        "end_date": 2006.0,
+        "glacier_area": 51406.2688,
+        "glacier_mass_change": -14.261778926584304,
+        "simulated_discharge": 165.0732748373162,
+        "latitude": 70.0,
+        "longitude": 100.0
+    },
+    {
+        "region": "9_russian_arctic",
+        "start_date": 2006.0,
+        "end_date": 2007.0,
+        "glacier_area": 51364.9952,
+        "glacier_mass_change": -5.90635950470559,
+        "simulated_discharge": 104.53077059019927,
+        "latitude": 70.0,
+        "longitude": 100.0
+    },
+    {
+        "region": "9_russian_arctic",
+        "start_date": 2007.0,
+        "end_date": 2008.0,
+        "glacier_area": 51323.7216,
+        "glacier_mass_change": -16.05897200870474,
+        "simulated_discharge": 178.09554987981795,
+        "latitude": 70.0,
+        "longitude": 100.0
+    },
+    {
+        "region": "9_russian_arctic",
+        "start_date": 2008.0,
+        "end_date": 2009.0,
+        "glacier_area": 51282.448,
+        "glacier_mass_change": 2.617551605043185,
+        "simulated_discharge": 42.767393013639854,
+        "latitude": 70.0,
+        "longitude": 100.0
+    },
+    {
+        "region": "9_russian_arctic",
+        "start_date": 2009.0,
+        "end_date": 2010.0,
+        "glacier_area": 51241.1744,
+        "glacier_mass_change": 3.355955051219893,
+        "simulated_discharge": 37.41699807605248,
+        "latitude": 70.0,
+        "longitude": 100.0
+    },
+    {
+        "region": "9_russian_arctic",
+        "start_date": 2010.0,
+        "end_date": 2011.0,
+        "glacier_area": 51199.9008,
+        "glacier_mass_change": 1.8542126867048536,
+        "simulated_discharge": 48.2984678013968,
+        "latitude": 70.0,
+        "longitude": 100.0
+    },
+    {
+        "region": "9_russian_arctic",
+        "start_date": 2011.0,
+        "end_date": 2012.0,
+        "glacier_area": 51158.6272,
+        "glacier_mass_change": -28.4607306217242,
+        "simulated_discharge": 267.95740906242077,
+        "latitude": 70.0,
+        "longitude": 100.0
+    },
+    {
+        "region": "9_russian_arctic",
+        "start_date": 2012.0,
+        "end_date": 2013.0,
+        "glacier_area": 51117.3536,
+        "glacier_mass_change": -8.370259542081753,
+        "simulated_discharge": 122.38393521850188,
+        "latitude": 70.0,
+        "longitude": 100.0
+    },
+    {
+        "region": "9_russian_arctic",
+        "start_date": 2013.0,
+        "end_date": 2014.0,
+        "glacier_area": 51076.08,
+        "glacier_mass_change": -24.013597848216985,
+        "simulated_discharge": 235.73394531593965,
+        "latitude": 70.0,
+        "longitude": 100.0
+    },
+    {
+        "region": "9_russian_arctic",
+        "start_date": 2014.0,
+        "end_date": 2015.0,
+        "glacier_area": 51034.8064,
+        "glacier_mass_change": 1.6598696379314568,
+        "simulated_discharge": 49.70665741602603,
+        "latitude": 70.0,
+        "longitude": 100.0
+    },
+    {
+        "region": "9_russian_arctic",
+        "start_date": 2015.0,
+        "end_date": 2016.0,
+        "glacier_area": 50993.5328,
+        "glacier_mass_change": -19.01366050987852,
+        "simulated_discharge": 199.50491691444122,
+        "latitude": 70.0,
+        "longitude": 100.0
+    },
+    {
+        "region": "9_russian_arctic",
+        "start_date": 2016.0,
+        "end_date": 2017.0,
+        "glacier_area": 50952.2592,
+        "glacier_mass_change": -38.72567230076549,
+        "simulated_discharge": 342.336113927009,
+        "latitude": 70.0,
+        "longitude": 100.0
+    },
+    {
+        "region": "9_russian_arctic",
+        "start_date": 2017.0,
+        "end_date": 2018.0,
+        "glacier_area": 50910.9856,
+        "glacier_mass_change": -9.23312758170906,
+        "simulated_discharge": 128.63618771668845,
+        "latitude": 70.0,
+        "longitude": 100.0
+    },
+    {
+        "region": "9_russian_arctic",
+        "start_date": 2018.0,
+        "end_date": 2019.0,
+        "glacier_area": 50869.712,
+        "glacier_mass_change": -19.85869850503244,
+        "simulated_discharge": 205.62797475599214,
+        "latitude": 70.0,
+        "longitude": 100.0
+    },
+    {
+        "region": "9_russian_arctic",
+        "start_date": 2019.0,
+        "end_date": 2020.0,
+        "glacier_area": 50828.4384,
+        "glacier_mass_change": -27.58499190115624,
+        "simulated_discharge": 261.6118969424046,
+        "latitude": 70.0,
+        "longitude": 100.0
+    },
+    {
+        "region": "9_russian_arctic",
+        "start_date": 2020.0,
+        "end_date": 2021.0,
+        "glacier_area": 50787.1648,
+        "glacier_mass_change": -60.4847308697026,
+        "simulated_discharge": 500.0,
+        "latitude": 70.0,
+        "longitude": 100.0
+    },
+    {
+        "region": "9_russian_arctic",
+        "start_date": 2021.0,
+        "end_date": 2022.0,
+        "glacier_area": 50745.8912,
+        "glacier_mass_change": -4.299174110625859,
+        "simulated_discharge": 92.88527158721827,
+        "latitude": 70.0,
+        "longitude": 100.0
+    },
+    {
+        "region": "9_russian_arctic",
+        "start_date": 2022.0,
+        "end_date": 2023.0,
+        "glacier_area": 50704.6176,
+        "glacier_mass_change": -40.067190725521854,
+        "simulated_discharge": 352.05661756991725,
+        "latitude": 70.0,
+        "longitude": 100.0
+    },
+    {
+        "region": "9_russian_arctic",
+        "start_date": 2023.0,
+        "end_date": 2024.0,
+        "glacier_area": 50663.344,
+        "glacier_mass_change": -34.07823465673737,
+        "simulated_discharge": 308.6612618226346,
+        "latitude": 70.0,
+        "longitude": 100.0
+    },
+    {
+        "region": "11_central_europe",
+        "start_date": 2000.0,
+        "end_date": 2001.0,
+        "glacier_area": 2140.639,
+        "glacier_mass_change": -0.5934003711822097,
+        "simulated_discharge": 74.95908378577337,
+        "latitude": 47.0,
+        "longitude": 10.0
+    },
+    {
+        "region": "11_central_europe",
+        "start_date": 2001.0,
+        "end_date": 2002.0,
+        "glacier_area": 2121.1834,
+        "glacier_mass_change": 0.4019665729881813,
+        "simulated_discharge": 0.0,
+        "latitude": 47.0,
+        "longitude": 10.0
+    },
+    {
+        "region": "11_central_europe",
+        "start_date": 2002.0,
+        "end_date": 2003.0,
+        "glacier_area": 2101.7278,
+        "glacier_mass_change": -0.7554326466468112,
+        "simulated_discharge": 87.16140875113959,
+        "latitude": 47.0,
+        "longitude": 10.0
+    },
+    {
+        "region": "11_central_europe",
+        "start_date": 2003.0,
+        "end_date": 2004.0,
+        "glacier_area": 2082.2722,
+        "glacier_mass_change": -4.0975870621061805,
+        "simulated_discharge": 338.8523397396269,
+        "latitude": 47.0,
+        "longitude": 10.0
+    },
+    {
+        "region": "11_central_europe",
+        "start_date": 2004.0,
+        "end_date": 2005.0,
+        "glacier_area": 2062.8166,
+        "glacier_mass_change": -1.4388937785429576,
+        "simulated_discharge": 138.63149277409536,
+        "latitude": 47.0,
+        "longitude": 10.0
+    },
+    {
+        "region": "11_central_europe",
+        "start_date": 2005.0,
+        "end_date": 2006.0,
+        "glacier_area": 2043.361,
+        "glacier_mass_change": -1.8171159119364328,
+        "simulated_discharge": 167.11464137845795,
+        "latitude": 47.0,
+        "longitude": 10.0
+    },
+    {
+        "region": "11_central_europe",
+        "start_date": 2006.0,
+        "end_date": 2007.0,
+        "glacier_area": 2023.9054,
+        "glacier_mass_change": -2.3588428656706264,
+        "simulated_discharge": 207.91100934285544,
+        "latitude": 47.0,
+        "longitude": 10.0
+    },
+    {
+        "region": "11_central_europe",
+        "start_date": 2007.0,
+        "end_date": 2008.0,
+        "glacier_area": 2004.4498,
+        "glacier_mass_change": -1.5790536047853114,
+        "simulated_discharge": 149.18664755418172,
+        "latitude": 47.0,
+        "longitude": 10.0
+    },
+    {
+        "region": "11_central_europe",
+        "start_date": 2008.0,
+        "end_date": 2009.0,
+        "glacier_area": 1984.9942,
+        "glacier_mass_change": -1.5093602965005972,
+        "simulated_discharge": 143.93818459726106,
+        "latitude": 47.0,
+        "longitude": 10.0
+    },
+    {
+        "region": "11_central_europe",
+        "start_date": 2009.0,
+        "end_date": 2010.0,
+        "glacier_area": 1965.5386,
+        "glacier_mass_change": -1.5827261116565263,
+        "simulated_discharge": 149.4632166645742,
+        "latitude": 47.0,
+        "longitude": 10.0
+    },
+    {
+        "region": "11_central_europe",
+        "start_date": 2010.0,
+        "end_date": 2011.0,
+        "glacier_area": 1946.083,
+        "glacier_mass_change": -1.034331703816414,
+        "simulated_discharge": 108.16473613365979,
+        "latitude": 47.0,
+        "longitude": 10.0
+    },
+    {
+        "region": "11_central_europe",
+        "start_date": 2011.0,
+        "end_date": 2012.0,
+        "glacier_area": 1926.6274,
+        "glacier_mass_change": -2.494022407325491,
+        "simulated_discharge": 218.09110890149103,
+        "latitude": 47.0,
+        "longitude": 10.0
+    },
+    {
+        "region": "11_central_europe",
+        "start_date": 2012.0,
+        "end_date": 2013.0,
+        "glacier_area": 1907.1718,
+        "glacier_mass_change": -2.7965827240695345,
+        "simulated_discharge": 240.87631818124032,
+        "latitude": 47.0,
+        "longitude": 10.0
+    },
+    {
+        "region": "11_central_europe",
+        "start_date": 2013.0,
+        "end_date": 2014.0,
+        "glacier_area": 1887.7162,
+        "glacier_mass_change": -0.5687006031528772,
+        "simulated_discharge": 73.09899390430452,
+        "latitude": 47.0,
+        "longitude": 10.0
+    },
+    {
+        "region": "11_central_europe",
+        "start_date": 2014.0,
+        "end_date": 2015.0,
+        "glacier_area": 1868.2606,
+        "glacier_mass_change": -0.3477905848183993,
+        "simulated_discharge": 56.46270447312152,
+        "latitude": 47.0,
+        "longitude": 10.0
+    },
+    {
+        "region": "11_central_europe",
+        "start_date": 2015.0,
+        "end_date": 2016.0,
+        "glacier_area": 1848.805,
+        "glacier_mass_change": -2.9636622375676023,
+        "simulated_discharge": 253.45874049749116,
+        "latitude": 47.0,
+        "longitude": 10.0
+    },
+    {
+        "region": "11_central_europe",
+        "start_date": 2016.0,
+        "end_date": 2017.0,
+        "glacier_area": 1829.3494,
+        "glacier_mass_change": -1.3798379610635585,
+        "simulated_discharge": 134.18411786738176,
+        "latitude": 47.0,
+        "longitude": 10.0
+    },
+    {
+        "region": "11_central_europe",
+        "start_date": 2017.0,
+        "end_date": 2018.0,
+        "glacier_area": 1809.8938,
+        "glacier_mass_change": -2.5871083005234867,
+        "simulated_discharge": 225.1012204069698,
+        "latitude": 47.0,
+        "longitude": 10.0
+    },
+    {
+        "region": "11_central_europe",
+        "start_date": 2018.0,
+        "end_date": 2019.0,
+        "glacier_area": 1790.4382,
+        "glacier_mass_change": -2.4371975090104008,
+        "simulated_discharge": 213.81174003268742,
+        "latitude": 47.0,
+        "longitude": 10.0
+    },
+    {
+        "region": "11_central_europe",
+        "start_date": 2019.0,
+        "end_date": 2020.0,
+        "glacier_area": 1770.9826,
+        "glacier_mass_change": -1.919024957544504,
+        "simulated_discharge": 174.78920675658637,
+        "latitude": 47.0,
+        "longitude": 10.0
+    },
+    {
+        "region": "11_central_europe",
+        "start_date": 2020.0,
+        "end_date": 2021.0,
+        "glacier_area": 1751.527,
+        "glacier_mass_change": -1.275594599025034,
+        "simulated_discharge": 126.33375981106792,
+        "latitude": 47.0,
+        "longitude": 10.0
+    },
+    {
+        "region": "11_central_europe",
+        "start_date": 2021.0,
+        "end_date": 2022.0,
+        "glacier_area": 1732.0714,
+        "glacier_mass_change": -1.582979860184506,
+        "simulated_discharge": 149.48232595615823,
+        "latitude": 47.0,
+        "longitude": 10.0
+    },
+    {
+        "region": "11_central_europe",
+        "start_date": 2022.0,
+        "end_date": 2023.0,
+        "glacier_area": 1712.6158,
+        "glacier_mass_change": -6.237435177272426,
+        "simulated_discharge": 500.0,
+        "latitude": 47.0,
+        "longitude": 10.0
+    },
+    {
+        "region": "11_central_europe",
+        "start_date": 2023.0,
+        "end_date": 2024.0,
+        "glacier_area": 1693.1602,
+        "glacier_mass_change": -4.375191438019658,
+        "simulated_discharge": 359.75816727917754,
+        "latitude": 47.0,
+        "longitude": 10.0
+    },
+    {
+        "region": "8_scandinavia",
+        "start_date": 2000.0,
+        "end_date": 2001.0,
+        "glacier_area": 2960.94345,
+        "glacier_mass_change": 0.8445266836084478,
+        "simulated_discharge": 66.56091177100242,
+        "latitude": 60.0,
+        "longitude": 15.0
+    },
+    {
+        "region": "8_scandinavia",
+        "start_date": 2001.0,
+        "end_date": 2002.0,
+        "glacier_area": 2952.98115,
+        "glacier_mass_change": -2.1991190686074744,
+        "simulated_discharge": 283.62279509592236,
+        "latitude": 60.0,
+        "longitude": 15.0
+    },
+    {
+        "region": "8_scandinavia",
+        "start_date": 2002.0,
+        "end_date": 2003.0,
+        "glacier_area": 2945.01885,
+        "glacier_mass_change": -4.026071661226791,
+        "simulated_discharge": 413.9144922195372,
+        "latitude": 60.0,
+        "longitude": 15.0
+    },
+    {
+        "region": "8_scandinavia",
+        "start_date": 2003.0,
+        "end_date": 2004.0,
+        "glacier_area": 2937.05655,
+        "glacier_mass_change": -4.215089346015239,
+        "simulated_discharge": 427.39455461248355,
+        "latitude": 60.0,
+        "longitude": 15.0
+    },
+    {
+        "region": "8_scandinavia",
+        "start_date": 2004.0,
+        "end_date": 2005.0,
+        "glacier_area": 2929.09425,
+        "glacier_mass_change": -0.6708575916169709,
+        "simulated_discharge": 174.63267554374755,
+        "latitude": 60.0,
+        "longitude": 15.0
+    },
+    {
+        "region": "8_scandinavia",
+        "start_date": 2005.0,
+        "end_date": 2006.0,
+        "glacier_area": 2921.13195,
+        "glacier_mass_change": -1.028301421986082,
+        "simulated_discharge": 200.1242857110297,
+        "latitude": 60.0,
+        "longitude": 15.0
+    },
+    {
+        "region": "8_scandinavia",
+        "start_date": 2006.0,
+        "end_date": 2007.0,
+        "glacier_area": 2913.16965,
+        "glacier_mass_change": -5.233164247312704,
+        "simulated_discharge": 500.0,
+        "latitude": 60.0,
+        "longitude": 15.0
+    },
+    {
+        "region": "8_scandinavia",
+        "start_date": 2007.0,
+        "end_date": 2008.0,
+        "glacier_area": 2905.20735,
+        "glacier_mass_change": 0.2174491141998074,
+        "simulated_discharge": 111.28183177542633,
+        "latitude": 60.0,
+        "longitude": 15.0
+    },
+    {
+        "region": "8_scandinavia",
+        "start_date": 2008.0,
+        "end_date": 2009.0,
+        "glacier_area": 2897.24505,
+        "glacier_mass_change": 0.2234919590341321,
+        "simulated_discharge": 110.85087778565145,
+        "latitude": 60.0,
+        "longitude": 15.0
+    },
+    {
+        "region": "8_scandinavia",
+        "start_date": 2009.0,
+        "end_date": 2010.0,
+        "glacier_area": 2889.28275,
+        "glacier_mass_change": -1.850892814863128,
+        "simulated_discharge": 258.78854938717046,
+        "latitude": 60.0,
+        "longitude": 15.0
+    },
+    {
+        "region": "8_scandinavia",
+        "start_date": 2010.0,
+        "end_date": 2011.0,
+        "glacier_area": 2881.32045,
+        "glacier_mass_change": -2.7932180431987925,
+        "simulated_discharge": 325.9918001656841,
+        "latitude": 60.0,
+        "longitude": 15.0
+    },
+    {
+        "region": "8_scandinavia",
+        "start_date": 2011.0,
+        "end_date": 2012.0,
+        "glacier_area": 2873.35815,
+        "glacier_mass_change": -3.1497490108565325,
+        "simulated_discharge": 351.4183082430784,
+        "latitude": 60.0,
+        "longitude": 15.0
+    },
+    {
+        "region": "8_scandinavia",
+        "start_date": 2012.0,
+        "end_date": 2013.0,
+        "glacier_area": 2865.39585,
+        "glacier_mass_change": 1.616198486336387,
+        "simulated_discharge": 11.528050378735,
+        "latitude": 60.0,
+        "longitude": 15.0
+    },
+    {
+        "region": "8_scandinavia",
+        "start_date": 2013.0,
+        "end_date": 2014.0,
+        "glacier_area": 2857.43355,
+        "glacier_mass_change": -3.2996106704306336,
+        "simulated_discharge": 362.1059035526408,
+        "latitude": 60.0,
+        "longitude": 15.0
+    },
+    {
+        "region": "8_scandinavia",
+        "start_date": 2014.0,
+        "end_date": 2015.0,
+        "glacier_area": 2849.47125,
+        "glacier_mass_change": -2.818199598557766,
+        "simulated_discharge": 327.77339496877727,
+        "latitude": 60.0,
+        "longitude": 15.0
+    },
+    {
+        "region": "8_scandinavia",
+        "start_date": 2015.0,
+        "end_date": 2016.0,
+        "glacier_area": 2841.50895,
+        "glacier_mass_change": 1.7778450224721014,
+        "simulated_discharge": 0.0,
+        "latitude": 60.0,
+        "longitude": 15.0
+    },
+    {
+        "region": "8_scandinavia",
+        "start_date": 2016.0,
+        "end_date": 2017.0,
+        "glacier_area": 2833.54665,
+        "glacier_mass_change": -1.1893070315883585,
+        "simulated_discharge": 211.6066275113863,
+        "latitude": 60.0,
+        "longitude": 15.0
+    },
+    {
+        "region": "8_scandinavia",
+        "start_date": 2017.0,
+        "end_date": 2018.0,
+        "glacier_area": 2825.58435,
+        "glacier_mass_change": -0.0301437619599587,
+        "simulated_discharge": 128.93926643514152,
+        "latitude": 60.0,
+        "longitude": 15.0
+    },
+    {
+        "region": "8_scandinavia",
+        "start_date": 2018.0,
+        "end_date": 2019.0,
+        "glacier_area": 2817.62205,
+        "glacier_mass_change": -4.212927232509297,
+        "simulated_discharge": 427.2403604428038,
+        "latitude": 60.0,
+        "longitude": 15.0
+    },
+    {
+        "region": "8_scandinavia",
+        "start_date": 2019.0,
+        "end_date": 2020.0,
+        "glacier_area": 2809.65975,
+        "glacier_mass_change": -1.4351922971850946,
+        "simulated_discharge": 229.14228151889293,
+        "latitude": 60.0,
+        "longitude": 15.0
+    },
+    {
+        "region": "8_scandinavia",
+        "start_date": 2020.0,
+        "end_date": 2021.0,
+        "glacier_area": 2801.69745,
+        "glacier_mass_change": 0.4944919959301292,
+        "simulated_discharge": 91.5241284926559,
+        "latitude": 60.0,
+        "longitude": 15.0
+    },
+    {
+        "region": "8_scandinavia",
+        "start_date": 2021.0,
+        "end_date": 2022.0,
+        "glacier_area": 2793.73515,
+        "glacier_mass_change": -2.4255083424878463,
+        "simulated_discharge": 299.76806499707885,
+        "latitude": 60.0,
+        "longitude": 15.0
+    },
+    {
+        "region": "8_scandinavia",
+        "start_date": 2022.0,
+        "end_date": 2023.0,
+        "glacier_area": 2785.77285,
+        "glacier_mass_change": -1.4723308948231677,
+        "simulated_discharge": 231.7908729134393,
+        "latitude": 60.0,
+        "longitude": 15.0
+    },
+    {
+        "region": "8_scandinavia",
+        "start_date": 2023.0,
+        "end_date": 2024.0,
+        "glacier_area": 2777.81055,
+        "glacier_mass_change": -3.1568268459350413,
+        "simulated_discharge": 351.9230740197414,
+        "latitude": 60.0,
+        "longitude": 15.0
+    },
+    {
+        "region": "7_svalbard",
+        "start_date": 2000.0,
+        "end_date": 2001.0,
+        "glacier_area": 34444.6137,
+        "glacier_mass_change": 5.85973224228223,
+        "simulated_discharge": 29.789339313617436,
+        "latitude": 78.0,
+        "longitude": 16.0
+    },
+    {
+        "region": "7_svalbard",
+        "start_date": 2001.0,
+        "end_date": 2002.0,
+        "glacier_area": 34356.3203,
+        "glacier_mass_change": -11.143703096330642,
+        "simulated_discharge": 196.45325208581932,
+        "latitude": 78.0,
+        "longitude": 16.0
+    },
+    {
+        "region": "7_svalbard",
+        "start_date": 2002.0,
+        "end_date": 2003.0,
+        "glacier_area": 34268.0269,
+        "glacier_mass_change": -10.250925533265024,
+        "simulated_discharge": 187.70244385603456,
+        "latitude": 78.0,
+        "longitude": 16.0
+    },
+    {
+        "region": "7_svalbard",
+        "start_date": 2003.0,
+        "end_date": 2004.0,
+        "glacier_area": 34179.7335,
+        "glacier_mass_change": -16.59267211556013,
+        "simulated_discharge": 249.86284133846854,
+        "latitude": 78.0,
+        "longitude": 16.0
+    },
+    {
+        "region": "7_svalbard",
+        "start_date": 2004.0,
+        "end_date": 2005.0,
+        "glacier_area": 34091.4401,
+        "glacier_mass_change": -13.80339462074514,
+        "simulated_discharge": 222.5229602005881,
+        "latitude": 78.0,
+        "longitude": 16.0
+    },
+    {
+        "region": "7_svalbard",
+        "start_date": 2005.0,
+        "end_date": 2006.0,
+        "glacier_area": 34003.1467,
+        "glacier_mass_change": -9.303333767132411,
+        "simulated_discharge": 178.41435893029356,
+        "latitude": 78.0,
+        "longitude": 16.0
+    },
+    {
+        "region": "7_svalbard",
+        "start_date": 2006.0,
+        "end_date": 2007.0,
+        "glacier_area": 33914.8533,
+        "glacier_mass_change": -4.636312178454609,
+        "simulated_discharge": 132.6692454593098,
+        "latitude": 78.0,
+        "longitude": 16.0
+    },
+    {
+        "region": "7_svalbard",
+        "start_date": 2007.0,
+        "end_date": 2008.0,
+        "glacier_area": 33826.5599,
+        "glacier_mass_change": -4.167827196014192,
+        "simulated_discharge": 128.0772592698351,
+        "latitude": 78.0,
+        "longitude": 16.0
+    },
+    {
+        "region": "7_svalbard",
+        "start_date": 2008.0,
+        "end_date": 2009.0,
+        "glacier_area": 33738.2665,
+        "glacier_mass_change": 8.898909088510552,
+        "simulated_discharge": 0.0,
+        "latitude": 78.0,
+        "longitude": 16.0
+    },
+    {
+        "region": "7_svalbard",
+        "start_date": 2009.0,
+        "end_date": 2010.0,
+        "glacier_area": 33649.9731,
+        "glacier_mass_change": -7.622036302257484,
+        "simulated_discharge": 161.93465300911942,
+        "latitude": 78.0,
+        "longitude": 16.0
+    },
+    {
+        "region": "7_svalbard",
+        "start_date": 2010.0,
+        "end_date": 2011.0,
+        "glacier_area": 33561.6797,
+        "glacier_mass_change": -0.3143960034536954,
+        "simulated_discharge": 90.30677893094979,
+        "latitude": 78.0,
+        "longitude": 16.0
+    },
+    {
+        "region": "7_svalbard",
+        "start_date": 2011.0,
+        "end_date": 2012.0,
+        "glacier_area": 33473.3863,
+        "glacier_mass_change": -16.06662024252455,
+        "simulated_discharge": 244.70659721866073,
+        "latitude": 78.0,
+        "longitude": 16.0
+    },
+    {
+        "region": "7_svalbard",
+        "start_date": 2012.0,
+        "end_date": 2013.0,
+        "glacier_area": 33385.0929,
+        "glacier_mass_change": -3.3211945074716787,
+        "simulated_discharge": 119.77875289489597,
+        "latitude": 78.0,
+        "longitude": 16.0
+    },
+    {
+        "region": "7_svalbard",
+        "start_date": 2013.0,
+        "end_date": 2014.0,
+        "glacier_area": 33296.7995,
+        "glacier_mass_change": -28.17079520779257,
+        "simulated_discharge": 363.3490433136433,
+        "latitude": 78.0,
+        "longitude": 16.0
+    },
+    {
+        "region": "7_svalbard",
+        "start_date": 2014.0,
+        "end_date": 2015.0,
+        "glacier_area": 33208.5061,
+        "glacier_mass_change": -11.484639850071742,
+        "simulated_discharge": 199.79503874567794,
+        "latitude": 78.0,
+        "longitude": 16.0
+    },
+    {
+        "region": "7_svalbard",
+        "start_date": 2015.0,
+        "end_date": 2016.0,
+        "glacier_area": 33120.212700000004,
+        "glacier_mass_change": -12.732022496611268,
+        "simulated_discharge": 212.02160758052503,
+        "latitude": 78.0,
+        "longitude": 16.0
+    },
+    {
+        "region": "7_svalbard",
+        "start_date": 2016.0,
+        "end_date": 2017.0,
+        "glacier_area": 33031.9193,
+        "glacier_mass_change": -26.151076923306224,
+        "simulated_discharge": 343.5522113625351,
+        "latitude": 78.0,
+        "longitude": 16.0
+    },
+    {
+        "region": "7_svalbard",
+        "start_date": 2017.0,
+        "end_date": 2018.0,
+        "glacier_area": 32943.6259,
+        "glacier_mass_change": -17.7612648718528,
+        "simulated_discharge": 261.31712909399675,
+        "latitude": 78.0,
+        "longitude": 16.0
+    },
+    {
+        "region": "7_svalbard",
+        "start_date": 2018.0,
+        "end_date": 2019.0,
+        "glacier_area": 32855.3325,
+        "glacier_mass_change": -18.7418685432444,
+        "simulated_discharge": 270.9287894142954,
+        "latitude": 78.0,
+        "longitude": 16.0
+    },
+    {
+        "region": "7_svalbard",
+        "start_date": 2019.0,
+        "end_date": 2020.0,
+        "glacier_area": 32767.0391,
+        "glacier_mass_change": -19.3136979603446,
+        "simulated_discharge": 276.5337348970324,
+        "latitude": 78.0,
+        "longitude": 16.0
+    },
+    {
+        "region": "7_svalbard",
+        "start_date": 2020.0,
+        "end_date": 2021.0,
+        "glacier_area": 32678.7457,
+        "glacier_mass_change": -39.71242876629833,
+        "simulated_discharge": 476.47758294911944,
+        "latitude": 78.0,
+        "longitude": 16.0
+    },
+    {
+        "region": "7_svalbard",
+        "start_date": 2021.0,
+        "end_date": 2022.0,
+        "glacier_area": 32590.4523,
+        "glacier_mass_change": -7.953819778136595,
+        "simulated_discharge": 165.18672126367989,
+        "latitude": 78.0,
+        "longitude": 16.0
+    },
+    {
+        "region": "7_svalbard",
+        "start_date": 2022.0,
+        "end_date": 2023.0,
+        "glacier_area": 32502.1589,
+        "glacier_mass_change": -42.11223980325151,
+        "simulated_discharge": 500.0,
+        "latitude": 78.0,
+        "longitude": 16.0
+    },
+    {
+        "region": "7_svalbard",
+        "start_date": 2023.0,
+        "end_date": 2024.0,
+        "glacier_area": 32413.8655,
+        "glacier_mass_change": -24.48600796123645,
+        "simulated_discharge": 327.23157363682145,
+        "latitude": 78.0,
+        "longitude": 16.0
+    },
+    {
+        "region": "14_south_asia_west",
+        "start_date": 2000.0,
+        "end_date": 2001.0,
+        "glacier_area": 33507.5776,
+        "glacier_mass_change": 6.851964677244642,
+        "simulated_discharge": 32.61989073606614,
+        "latitude": 35.0,
+        "longitude": 70.0
+    },
+    {
+        "region": "14_south_asia_west",
+        "start_date": 2001.0,
+        "end_date": 2002.0,
+        "glacier_area": 33386.7328,
+        "glacier_mass_change": -4.64241326904263,
+        "simulated_discharge": 163.04434147994888,
+        "latitude": 35.0,
+        "longitude": 70.0
+    },
+    {
+        "region": "14_south_asia_west",
+        "start_date": 2002.0,
+        "end_date": 2003.0,
+        "glacier_area": 33265.888,
+        "glacier_mass_change": -2.352745468347903,
+        "simulated_discharge": 137.06393030093227,
+        "latitude": 35.0,
+        "longitude": 70.0
+    },
+    {
+        "region": "14_south_asia_west",
+        "start_date": 2003.0,
+        "end_date": 2004.0,
+        "glacier_area": 33145.0432,
+        "glacier_mass_change": -13.091190343162353,
+        "simulated_discharge": 258.9109568373723,
+        "latitude": 35.0,
+        "longitude": 70.0
+    },
+    {
+        "region": "14_south_asia_west",
+        "start_date": 2004.0,
+        "end_date": 2005.0,
+        "glacier_area": 33024.1984,
+        "glacier_mass_change": -11.446097131719313,
+        "simulated_discharge": 240.24440702253415,
+        "latitude": 35.0,
+        "longitude": 70.0
+    },
+    {
+        "region": "14_south_asia_west",
+        "start_date": 2005.0,
+        "end_date": 2006.0,
+        "glacier_area": 32903.3536,
+        "glacier_mass_change": 4.807317498760151,
+        "simulated_discharge": 55.82010100103363,
+        "latitude": 35.0,
+        "longitude": 70.0
+    },
+    {
+        "region": "14_south_asia_west",
+        "start_date": 2006.0,
+        "end_date": 2007.0,
+        "glacier_area": 32782.5088,
+        "glacier_mass_change": -23.39682475507553,
+        "simulated_discharge": 375.8469679918676,
+        "latitude": 35.0,
+        "longitude": 70.0
+    },
+    {
+        "region": "14_south_asia_west",
+        "start_date": 2007.0,
+        "end_date": 2008.0,
+        "glacier_area": 32661.664,
+        "glacier_mass_change": -20.770993357775385,
+        "simulated_discharge": 346.0521744554732,
+        "latitude": 35.0,
+        "longitude": 70.0
+    },
+    {
+        "region": "14_south_asia_west",
+        "start_date": 2008.0,
+        "end_date": 2009.0,
+        "glacier_area": 32540.8192,
+        "glacier_mass_change": -15.082436168591911,
+        "simulated_discharge": 281.50523242943126,
+        "latitude": 35.0,
+        "longitude": 70.0
+    },
+    {
+        "region": "14_south_asia_west",
+        "start_date": 2009.0,
+        "end_date": 2010.0,
+        "glacier_area": 32419.9744,
+        "glacier_mass_change": 9.726773430882623,
+        "simulated_discharge": 0.0,
+        "latitude": 35.0,
+        "longitude": 70.0
+    },
+    {
+        "region": "14_south_asia_west",
+        "start_date": 2010.0,
+        "end_date": 2011.0,
+        "glacier_area": 32299.1296,
+        "glacier_mass_change": 8.545261399182058,
+        "simulated_discharge": 13.406385147759048,
+        "latitude": 35.0,
+        "longitude": 70.0
+    },
+    {
+        "region": "14_south_asia_west",
+        "start_date": 2011.0,
+        "end_date": 2012.0,
+        "glacier_area": 32178.2848,
+        "glacier_mass_change": 7.573331993465979,
+        "simulated_discharge": 24.43467736980953,
+        "latitude": 35.0,
+        "longitude": 70.0
+    },
+    {
+        "region": "14_south_asia_west",
+        "start_date": 2012.0,
+        "end_date": 2013.0,
+        "glacier_area": 32057.44,
+        "glacier_mass_change": -7.838206686315059,
+        "simulated_discharge": 199.30638219989083,
+        "latitude": 35.0,
+        "longitude": 70.0
+    },
+    {
+        "region": "14_south_asia_west",
+        "start_date": 2013.0,
+        "end_date": 2014.0,
+        "glacier_area": 31936.5952,
+        "glacier_mass_change": -12.28292520262717,
+        "simulated_discharge": 249.73973091263412,
+        "latitude": 35.0,
+        "longitude": 70.0
+    },
+    {
+        "region": "14_south_asia_west",
+        "start_date": 2014.0,
+        "end_date": 2015.0,
+        "glacier_area": 31815.7504,
+        "glacier_mass_change": -0.6933992166120448,
+        "simulated_discharge": 118.23565403510145,
+        "latitude": 35.0,
+        "longitude": 70.0
+    },
+    {
+        "region": "14_south_asia_west",
+        "start_date": 2015.0,
+        "end_date": 2016.0,
+        "glacier_area": 31694.9056,
+        "glacier_mass_change": -0.9024996256509292,
+        "simulated_discharge": 120.6082753397652,
+        "latitude": 35.0,
+        "longitude": 70.0
+    },
+    {
+        "region": "14_south_asia_west",
+        "start_date": 2016.0,
+        "end_date": 2017.0,
+        "glacier_area": 31574.0608,
+        "glacier_mass_change": -10.96446277745992,
+        "simulated_discharge": 234.77939652721147,
+        "latitude": 35.0,
+        "longitude": 70.0
+    },
+    {
+        "region": "14_south_asia_west",
+        "start_date": 2017.0,
+        "end_date": 2018.0,
+        "glacier_area": 31453.216,
+        "glacier_mass_change": -2.3260157023337524,
+        "simulated_discharge": 136.7606328917816,
+        "latitude": 35.0,
+        "longitude": 70.0
+    },
+    {
+        "region": "14_south_asia_west",
+        "start_date": 2018.0,
+        "end_date": 2019.0,
+        "glacier_area": 31332.3712,
+        "glacier_mass_change": -3.924469396591872,
+        "simulated_discharge": 154.89797325829392,
+        "latitude": 35.0,
+        "longitude": 70.0
+    },
+    {
+        "region": "14_south_asia_west",
+        "start_date": 2019.0,
+        "end_date": 2020.0,
+        "glacier_area": 31211.5264,
+        "glacier_mass_change": 4.378411912846257,
+        "simulated_discharge": 60.68680851014862,
+        "latitude": 35.0,
+        "longitude": 70.0
+    },
+    {
+        "region": "14_south_asia_west",
+        "start_date": 2020.0,
+        "end_date": 2021.0,
+        "glacier_area": 31090.6816,
+        "glacier_mass_change": 5.577242329699477,
+        "simulated_discharge": 47.083915044857264,
+        "latitude": 35.0,
+        "longitude": 70.0
+    },
+    {
+        "region": "14_south_asia_west",
+        "start_date": 2021.0,
+        "end_date": 2022.0,
+        "glacier_area": 30969.8368,
+        "glacier_mass_change": -9.815571924051932,
+        "simulated_discharge": 221.74315748751573,
+        "latitude": 35.0,
+        "longitude": 70.0
+    },
+    {
+        "region": "14_south_asia_west",
+        "start_date": 2022.0,
+        "end_date": 2023.0,
+        "glacier_area": 30848.992,
+        "glacier_mass_change": -34.3384991492528,
+        "simulated_discharge": 500.0,
+        "latitude": 35.0,
+        "longitude": 70.0
+    },
+    {
+        "region": "14_south_asia_west",
+        "start_date": 2023.0,
+        "end_date": 2024.0,
+        "glacier_area": 30728.1472,
+        "glacier_mass_change": -8.254232398376997,
+        "simulated_discharge": 204.02694430812895,
+        "latitude": 35.0,
+        "longitude": 70.0
+    },
+    {
+        "region": "4_arctic_canada_south",
+        "start_date": 2000.0,
+        "end_date": 2001.0,
+        "glacier_area": 40871.6448,
+        "glacier_mass_change": -31.828658494953373,
+        "simulated_discharge": 320.387750857452,
+        "latitude": 65.0,
+        "longitude": -100.0
+    },
+    {
+        "region": "4_arctic_canada_south",
+        "start_date": 2001.0,
+        "end_date": 2002.0,
+        "glacier_area": 40838.9344,
+        "glacier_mass_change": -22.03994632267151,
+        "simulated_discharge": 226.46059026992992,
+        "latitude": 65.0,
+        "longitude": -100.0
+    },
+    {
+        "region": "4_arctic_canada_south",
+        "start_date": 2002.0,
+        "end_date": 2003.0,
+        "glacier_area": 40806.224,
+        "glacier_mass_change": -5.5967058673044985,
+        "simulated_discharge": 68.6801938656027,
+        "latitude": 65.0,
+        "longitude": -100.0
+    },
+    {
+        "region": "4_arctic_canada_south",
+        "start_date": 2003.0,
+        "end_date": 2004.0,
+        "glacier_area": 40773.5136,
+        "glacier_mass_change": -8.486024053557571,
+        "simulated_discharge": 96.40452046671643,
+        "latitude": 65.0,
+        "longitude": -100.0
+    },
+    {
+        "region": "4_arctic_canada_south",
+        "start_date": 2004.0,
+        "end_date": 2005.0,
+        "glacier_area": 40740.8032,
+        "glacier_mass_change": -1.4671494901073976,
+        "simulated_discharge": 29.055215812355982,
+        "latitude": 65.0,
+        "longitude": -100.0
+    },
+    {
+        "region": "4_arctic_canada_south",
+        "start_date": 2005.0,
+        "end_date": 2006.0,
+        "glacier_area": 40708.0928,
+        "glacier_mass_change": -24.2248536106406,
+        "simulated_discharge": 247.42577282857496,
+        "latitude": 65.0,
+        "longitude": -100.0
+    },
+    {
+        "region": "4_arctic_canada_south",
+        "start_date": 2006.0,
+        "end_date": 2007.0,
+        "glacier_area": 40675.3824,
+        "glacier_mass_change": -17.097984159188556,
+        "simulated_discharge": 179.04020793798992,
+        "latitude": 65.0,
+        "longitude": -100.0
+    },
+    {
+        "region": "4_arctic_canada_south",
+        "start_date": 2007.0,
+        "end_date": 2008.0,
+        "glacier_area": 40642.672,
+        "glacier_mass_change": -33.1540408077942,
+        "simulated_discharge": 333.10539901658075,
+        "latitude": 65.0,
+        "longitude": -100.0
+    },
+    {
+        "region": "4_arctic_canada_south",
+        "start_date": 2008.0,
+        "end_date": 2009.0,
+        "glacier_area": 40609.9616,
+        "glacier_mass_change": -37.1628977737753,
+        "simulated_discharge": 371.5722111353741,
+        "latitude": 65.0,
+        "longitude": -100.0
+    },
+    {
+        "region": "4_arctic_canada_south",
+        "start_date": 2009.0,
+        "end_date": 2010.0,
+        "glacier_area": 40577.2512,
+        "glacier_mass_change": -36.847830118826685,
+        "simulated_discharge": 368.5489931980759,
+        "latitude": 65.0,
+        "longitude": -100.0
+    },
+    {
+        "region": "4_arctic_canada_south",
+        "start_date": 2010.0,
+        "end_date": 2011.0,
+        "glacier_area": 40544.5408,
+        "glacier_mass_change": -29.970014139117,
+        "simulated_discharge": 302.5532100298981,
+        "latitude": 65.0,
+        "longitude": -100.0
+    },
+    {
+        "region": "4_arctic_canada_south",
+        "start_date": 2011.0,
+        "end_date": 2012.0,
+        "glacier_area": 40511.8304,
+        "glacier_mass_change": -41.75154929339208,
+        "simulated_discharge": 415.6024165983213,
+        "latitude": 65.0,
+        "longitude": -100.0
+    },
+    {
+        "region": "4_arctic_canada_south",
+        "start_date": 2012.0,
+        "end_date": 2013.0,
+        "glacier_area": 40479.12,
+        "glacier_mass_change": -38.5652621599766,
+        "simulated_discharge": 385.02853742086194,
+        "latitude": 65.0,
+        "longitude": -100.0
+    },
+    {
+        "region": "4_arctic_canada_south",
+        "start_date": 2013.0,
+        "end_date": 2014.0,
+        "glacier_area": 40446.4096,
+        "glacier_mass_change": -9.379093521828558,
+        "simulated_discharge": 104.97392958670571,
+        "latitude": 65.0,
+        "longitude": -100.0
+    },
+    {
+        "region": "4_arctic_canada_south",
+        "start_date": 2014.0,
+        "end_date": 2015.0,
+        "glacier_area": 40413.6992,
+        "glacier_mass_change": -14.425387850746011,
+        "simulated_discharge": 153.39542666027222,
+        "latitude": 65.0,
+        "longitude": -100.0
+    },
+    {
+        "region": "4_arctic_canada_south",
+        "start_date": 2015.0,
+        "end_date": 2016.0,
+        "glacier_area": 40380.9888,
+        "glacier_mass_change": -27.71112564848519,
+        "simulated_discharge": 280.8781440687523,
+        "latitude": 65.0,
+        "longitude": -100.0
+    },
+    {
+        "region": "4_arctic_canada_south",
+        "start_date": 2016.0,
+        "end_date": 2017.0,
+        "glacier_area": 40348.2784,
+        "glacier_mass_change": -29.15938862497677,
+        "simulated_discharge": 294.77488827490845,
+        "latitude": 65.0,
+        "longitude": -100.0
+    },
+    {
+        "region": "4_arctic_canada_south",
+        "start_date": 2017.0,
+        "end_date": 2018.0,
+        "glacier_area": 40315.568,
+        "glacier_mass_change": -6.698300058839619,
+        "simulated_discharge": 79.25049287016323,
+        "latitude": 65.0,
+        "longitude": -100.0
+    },
+    {
+        "region": "4_arctic_canada_south",
+        "start_date": 2018.0,
+        "end_date": 2019.0,
+        "glacier_area": 40282.8576,
+        "glacier_mass_change": -1.1632489212322985,
+        "simulated_discharge": 26.13915116227883,
+        "latitude": 65.0,
+        "longitude": -100.0
+    },
+    {
+        "region": "4_arctic_canada_south",
+        "start_date": 2019.0,
+        "end_date": 2020.0,
+        "glacier_area": 40250.1472,
+        "glacier_mass_change": -50.54712713038396,
+        "simulated_discharge": 500.0,
+        "latitude": 65.0,
+        "longitude": -100.0
+    },
+    {
+        "region": "4_arctic_canada_south",
+        "start_date": 2020.0,
+        "end_date": 2021.0,
+        "glacier_area": 40217.4368,
+        "glacier_mass_change": -35.23772265203272,
+        "simulated_discharge": 353.0992772461694,
+        "latitude": 65.0,
+        "longitude": -100.0
+    },
+    {
+        "region": "4_arctic_canada_south",
+        "start_date": 2021.0,
+        "end_date": 2022.0,
+        "glacier_area": 40184.7264,
+        "glacier_mass_change": 1.5608686349126528,
+        "simulated_discharge": 0.0,
+        "latitude": 65.0,
+        "longitude": -100.0
+    },
+    {
+        "region": "4_arctic_canada_south",
+        "start_date": 2022.0,
+        "end_date": 2023.0,
+        "glacier_area": 40152.016,
+        "glacier_mass_change": -26.803353366935987,
+        "simulated_discharge": 272.16765474540586,
+        "latitude": 65.0,
+        "longitude": -100.0
+    },
+    {
+        "region": "4_arctic_canada_south",
+        "start_date": 2023.0,
+        "end_date": 2024.0,
+        "glacier_area": 40119.3056,
+        "glacier_mass_change": -24.485635912166988,
+        "simulated_discharge": 249.92809802546984,
+        "latitude": 65.0,
+        "longitude": -100.0
+    },
+    {
+        "region": "3_arctic_canada_north",
+        "start_date": 2000.0,
+        "end_date": 2001.0,
+        "glacier_area": 105000.63345,
+        "glacier_mass_change": -48.492413102801386,
+        "simulated_discharge": 322.58550649648464,
+        "latitude": 75.0,
+        "longitude": -100.0
+    },
+    {
+        "region": "3_arctic_canada_north",
+        "start_date": 2001.0,
+        "end_date": 2002.0,
+        "glacier_area": 104927.05575,
+        "glacier_mass_change": -27.438732411778343,
+        "simulated_discharge": 215.28658930845955,
+        "latitude": 75.0,
+        "longitude": -100.0
+    },
+    {
+        "region": "3_arctic_canada_north",
+        "start_date": 2002.0,
+        "end_date": 2003.0,
+        "glacier_area": 104853.47805,
+        "glacier_mass_change": 2.272794777893257,
+        "simulated_discharge": 63.863437117610225,
+        "latitude": 75.0,
+        "longitude": -100.0
+    },
+    {
+        "region": "3_arctic_canada_north",
+        "start_date": 2003.0,
+        "end_date": 2004.0,
+        "glacier_area": 104779.90035,
+        "glacier_mass_change": -10.868112073559915,
+        "simulated_discharge": 130.8353408299539,
+        "latitude": 75.0,
+        "longitude": -100.0
+    },
+    {
+        "region": "3_arctic_canada_north",
+        "start_date": 2004.0,
+        "end_date": 2005.0,
+        "glacier_area": 104706.32265,
+        "glacier_mass_change": 9.330261455013746,
+        "simulated_discharge": 27.895449208090895,
+        "latitude": 75.0,
+        "longitude": -100.0
+    },
+    {
+        "region": "3_arctic_canada_north",
+        "start_date": 2005.0,
+        "end_date": 2006.0,
+        "glacier_area": 104632.74495,
+        "glacier_mass_change": -27.634643373576697,
+        "simulated_discharge": 216.28503867105442,
+        "latitude": 75.0,
+        "longitude": -100.0
+    },
+    {
+        "region": "3_arctic_canada_north",
+        "start_date": 2006.0,
+        "end_date": 2007.0,
+        "glacier_area": 104559.16725,
+        "glacier_mass_change": -14.49033741307888,
+        "simulated_discharge": 149.2958115877882,
+        "latitude": 75.0,
+        "longitude": -100.0
+    },
+    {
+        "region": "3_arctic_canada_north",
+        "start_date": 2007.0,
+        "end_date": 2008.0,
+        "glacier_area": 104485.58955,
+        "glacier_mass_change": -59.606055889383214,
+        "simulated_discharge": 379.22557122033083,
+        "latitude": 75.0,
+        "longitude": -100.0
+    },
+    {
+        "region": "3_arctic_canada_north",
+        "start_date": 2008.0,
+        "end_date": 2009.0,
+        "glacier_area": 104412.01185,
+        "glacier_mass_change": -59.05425797773865,
+        "simulated_discharge": 376.41336373533176,
+        "latitude": 75.0,
+        "longitude": -100.0
+    },
+    {
+        "region": "3_arctic_canada_north",
+        "start_date": 2009.0,
+        "end_date": 2010.0,
+        "glacier_area": 104338.43415,
+        "glacier_mass_change": -44.75125504827651,
+        "simulated_discharge": 303.5189017459463,
+        "latitude": 75.0,
+        "longitude": -100.0
+    },
+    {
+        "region": "3_arctic_canada_north",
+        "start_date": 2010.0,
+        "end_date": 2011.0,
+        "glacier_area": 104264.85645,
+        "glacier_mass_change": -30.430679211817186,
+        "simulated_discharge": 230.53488040965536,
+        "latitude": 75.0,
+        "longitude": -100.0
+    },
+    {
+        "region": "3_arctic_canada_north",
+        "start_date": 2011.0,
+        "end_date": 2012.0,
+        "glacier_area": 104191.27875,
+        "glacier_mass_change": -83.30383705815383,
+        "simulated_discharge": 500.0,
+        "latitude": 75.0,
+        "longitude": -100.0
+    },
+    {
+        "region": "3_arctic_canada_north",
+        "start_date": 2012.0,
+        "end_date": 2013.0,
+        "glacier_area": 104117.70105,
+        "glacier_mass_change": -72.92247186119154,
+        "simulated_discharge": 447.0919474406935,
+        "latitude": 75.0,
+        "longitude": -100.0
+    },
+    {
+        "region": "3_arctic_canada_north",
+        "start_date": 2013.0,
+        "end_date": 2014.0,
+        "glacier_area": 104044.12335,
+        "glacier_mass_change": 7.95057993093942,
+        "simulated_discharge": 34.926919655945575,
+        "latitude": 75.0,
+        "longitude": -100.0
+    },
+    {
+        "region": "3_arctic_canada_north",
+        "start_date": 2014.0,
+        "end_date": 2015.0,
+        "glacier_area": 103970.54565,
+        "glacier_mass_change": -18.520099173347603,
+        "simulated_discharge": 169.83326913491004,
+        "latitude": 75.0,
+        "longitude": -100.0
+    },
+    {
+        "region": "3_arctic_canada_north",
+        "start_date": 2015.0,
+        "end_date": 2016.0,
+        "glacier_area": 103896.96795,
+        "glacier_mass_change": -52.64644712831746,
+        "simulated_discharge": 343.75631075828466,
+        "latitude": 75.0,
+        "longitude": -100.0
+    },
+    {
+        "region": "3_arctic_canada_north",
+        "start_date": 2016.0,
+        "end_date": 2017.0,
+        "glacier_area": 103823.39025,
+        "glacier_mass_change": -24.18813350213283,
+        "simulated_discharge": 198.72009206096135,
+        "latitude": 75.0,
+        "longitude": -100.0
+    },
+    {
+        "region": "3_arctic_canada_north",
+        "start_date": 2017.0,
+        "end_date": 2018.0,
+        "glacier_area": 103749.81255,
+        "glacier_mass_change": 6.945037312449323,
+        "simulated_discharge": 40.05161190020495,
+        "latitude": 75.0,
+        "longitude": -100.0
+    },
+    {
+        "region": "3_arctic_canada_north",
+        "start_date": 2018.0,
+        "end_date": 2019.0,
+        "glacier_area": 103676.23485,
+        "glacier_mass_change": 14.803773171172445,
+        "simulated_discharge": 0.0,
+        "latitude": 75.0,
+        "longitude": -100.0
+    },
+    {
+        "region": "3_arctic_canada_north",
+        "start_date": 2019.0,
+        "end_date": 2020.0,
+        "glacier_area": 103602.65715,
+        "glacier_mass_change": -58.8923231836455,
+        "simulated_discharge": 375.5880720290379,
+        "latitude": 75.0,
+        "longitude": -100.0
+    },
+    {
+        "region": "3_arctic_canada_north",
+        "start_date": 2020.0,
+        "end_date": 2021.0,
+        "glacier_area": 103529.07945,
+        "glacier_mass_change": -54.56558148027142,
+        "simulated_discharge": 353.537072655695,
+        "latitude": 75.0,
+        "longitude": -100.0
+    },
+    {
+        "region": "3_arctic_canada_north",
+        "start_date": 2021.0,
+        "end_date": 2022.0,
+        "glacier_area": 103455.50175,
+        "glacier_mass_change": -2.239494795578432,
+        "simulated_discharge": 86.86007093084974,
+        "latitude": 75.0,
+        "longitude": -100.0
+    },
+    {
+        "region": "3_arctic_canada_north",
+        "start_date": 2022.0,
+        "end_date": 2023.0,
+        "glacier_area": 103381.92405,
+        "glacier_mass_change": -37.476242418283874,
+        "simulated_discharge": 266.44220294048506,
+        "latitude": 75.0,
+        "longitude": -100.0
+    },
+    {
+        "region": "3_arctic_canada_north",
+        "start_date": 2023.0,
+        "end_date": 2024.0,
+        "glacier_area": 103308.34635,
+        "glacier_mass_change": -44.019049041281086,
+        "simulated_discharge": 299.78725439828435,
+        "latitude": 75.0,
+        "longitude": -100.0
+    },
+    {
+        "region": "10_north_asia",
+        "start_date": 2000.0,
+        "end_date": 2001.0,
+        "glacier_area": 2487.7225,
+        "glacier_mass_change": -0.9197019532932548,
+        "simulated_discharge": 243.7116710164547,
+        "latitude": 60.0,
+        "longitude": 90.0
+    },
+    {
+        "region": "10_north_asia",
+        "start_date": 2001.0,
+        "end_date": 2002.0,
+        "glacier_area": 2477.3595,
+        "glacier_mass_change": -1.5411560324271425,
+        "simulated_discharge": 352.52371553350207,
+        "latitude": 60.0,
+        "longitude": 90.0
+    },
+    {
+        "region": "10_north_asia",
+        "start_date": 2002.0,
+        "end_date": 2003.0,
+        "glacier_area": 2466.9965,
+        "glacier_mass_change": -2.008519104670919,
+        "simulated_discharge": 434.3555565819822,
+        "latitude": 60.0,
+        "longitude": 90.0
+    },
+    {
+        "region": "10_north_asia",
+        "start_date": 2003.0,
+        "end_date": 2004.0,
+        "glacier_area": 2456.6335,
+        "glacier_mass_change": -1.3367036448471714,
+        "simulated_discharge": 316.72560422337335,
+        "latitude": 60.0,
+        "longitude": 90.0
+    },
+    {
+        "region": "10_north_asia",
+        "start_date": 2004.0,
+        "end_date": 2005.0,
+        "glacier_area": 2446.2705,
+        "glacier_mass_change": -0.6073020718796399,
+        "simulated_discharge": 189.0127464380304,
+        "latitude": 60.0,
+        "longitude": 90.0
+    },
+    {
+        "region": "10_north_asia",
+        "start_date": 2005.0,
+        "end_date": 2006.0,
+        "glacier_area": 2435.9075,
+        "glacier_mass_change": -0.4421699496148141,
+        "simulated_discharge": 160.09932476716938,
+        "latitude": 60.0,
+        "longitude": 90.0
+    },
+    {
+        "region": "10_north_asia",
+        "start_date": 2006.0,
+        "end_date": 2007.0,
+        "glacier_area": 2425.5445,
+        "glacier_mass_change": -1.4369095884292484,
+        "simulated_discharge": 334.2709289062879,
+        "latitude": 60.0,
+        "longitude": 90.0
+    },
+    {
+        "region": "10_north_asia",
+        "start_date": 2007.0,
+        "end_date": 2008.0,
+        "glacier_area": 2415.1815,
+        "glacier_mass_change": -1.5576011706781698,
+        "simulated_discharge": 355.40313844750676,
+        "latitude": 60.0,
+        "longitude": 90.0
+    },
+    {
+        "region": "10_north_asia",
+        "start_date": 2008.0,
+        "end_date": 2009.0,
+        "glacier_area": 2404.8185,
+        "glacier_mass_change": -1.7288465569663265,
+        "simulated_discharge": 385.38694774536384,
+        "latitude": 60.0,
+        "longitude": 90.0
+    },
+    {
+        "region": "10_north_asia",
+        "start_date": 2009.0,
+        "end_date": 2010.0,
+        "glacier_area": 2394.4555,
+        "glacier_mass_change": 0.4721992168201645,
+        "simulated_discharge": 0.0,
+        "latitude": 60.0,
+        "longitude": 90.0
+    },
+    {
+        "region": "10_north_asia",
+        "start_date": 2010.0,
+        "end_date": 2011.0,
+        "glacier_area": 2384.0925,
+        "glacier_mass_change": -1.278298719425217,
+        "simulated_discharge": 306.49933078111735,
+        "latitude": 60.0,
+        "longitude": 90.0
+    },
+    {
+        "region": "10_north_asia",
+        "start_date": 2011.0,
+        "end_date": 2012.0,
+        "glacier_area": 2373.7295,
+        "glacier_mass_change": -2.1266620946428576,
+        "simulated_discharge": 455.0415263355641,
+        "latitude": 60.0,
+        "longitude": 90.0
+    },
+    {
+        "region": "10_north_asia",
+        "start_date": 2012.0,
+        "end_date": 2013.0,
+        "glacier_area": 2363.3665,
+        "glacier_mass_change": -2.082237426114749,
+        "simulated_discharge": 447.26309318685475,
+        "latitude": 60.0,
+        "longitude": 90.0
+    },
+    {
+        "region": "10_north_asia",
+        "start_date": 2013.0,
+        "end_date": 2014.0,
+        "glacier_area": 2353.0035,
+        "glacier_mass_change": -0.9064403927766193,
+        "simulated_discharge": 241.38966917954858,
+        "latitude": 60.0,
+        "longitude": 90.0
+    },
+    {
+        "region": "10_north_asia",
+        "start_date": 2014.0,
+        "end_date": 2015.0,
+        "glacier_area": 2342.6405,
+        "glacier_mass_change": -0.7676348462089759,
+        "simulated_discharge": 217.0858375378264,
+        "latitude": 60.0,
+        "longitude": 90.0
+    },
+    {
+        "region": "10_north_asia",
+        "start_date": 2015.0,
+        "end_date": 2016.0,
+        "glacier_area": 2332.2775,
+        "glacier_mass_change": -1.9092539350345972,
+        "simulated_discharge": 416.9749545067439,
+        "latitude": 60.0,
+        "longitude": 90.0
+    },
+    {
+        "region": "10_north_asia",
+        "start_date": 2016.0,
+        "end_date": 2017.0,
+        "glacier_area": 2321.9145,
+        "glacier_mass_change": -1.0968359067228153,
+        "simulated_discharge": 274.72652516773854,
+        "latitude": 60.0,
+        "longitude": 90.0
+    },
+    {
+        "region": "10_north_asia",
+        "start_date": 2017.0,
+        "end_date": 2018.0,
+        "glacier_area": 2311.5515,
+        "glacier_mass_change": -2.229459832807573,
+        "simulated_discharge": 473.04065521250385,
+        "latitude": 60.0,
+        "longitude": 90.0
+    },
+    {
+        "region": "10_north_asia",
+        "start_date": 2018.0,
+        "end_date": 2019.0,
+        "glacier_area": 2301.1885,
+        "glacier_mass_change": -1.4296283286683342,
+        "simulated_discharge": 332.99603380486866,
+        "latitude": 60.0,
+        "longitude": 90.0
+    },
+    {
+        "region": "10_north_asia",
+        "start_date": 2019.0,
+        "end_date": 2020.0,
+        "glacier_area": 2290.8255,
+        "glacier_mass_change": -0.8149763258916679,
+        "simulated_discharge": 225.37498289497864,
+        "latitude": 60.0,
+        "longitude": 90.0
+    },
+    {
+        "region": "10_north_asia",
+        "start_date": 2020.0,
+        "end_date": 2021.0,
+        "glacier_area": 2280.4625,
+        "glacier_mass_change": -1.0545339240245566,
+        "simulated_discharge": 267.31975871616515,
+        "latitude": 60.0,
+        "longitude": 90.0
+    },
+    {
+        "region": "10_north_asia",
+        "start_date": 2021.0,
+        "end_date": 2022.0,
+        "glacier_area": 2270.0995,
+        "glacier_mass_change": -1.2541491015757211,
+        "simulated_discharge": 302.2709100807958,
+        "latitude": 60.0,
+        "longitude": 90.0
+    },
+    {
+        "region": "10_north_asia",
+        "start_date": 2022.0,
+        "end_date": 2023.0,
+        "glacier_area": 2259.7365,
+        "glacier_mass_change": -2.084194149188092,
+        "simulated_discharge": 447.6057010243653,
+        "latitude": 60.0,
+        "longitude": 90.0
+    },
+    {
+        "region": "10_north_asia",
+        "start_date": 2023.0,
+        "end_date": 2024.0,
+        "glacier_area": 2249.3735,
+        "glacier_mass_change": -2.383431710308152,
+        "simulated_discharge": 500.0,
+        "latitude": 60.0,
+        "longitude": 90.0
+    },
+    {
+        "region": "15_south_asia_east",
+        "start_date": 2000.0,
+        "end_date": 2001.0,
+        "glacier_area": 14907.1245,
+        "glacier_mass_change": -2.327916651477616,
+        "simulated_discharge": 85.63721081537473,
+        "latitude": 27.0,
+        "longitude": 85.0
+    },
+    {
+        "region": "15_south_asia_east",
+        "start_date": 2001.0,
+        "end_date": 2002.0,
+        "glacier_area": 14837.8747,
+        "glacier_mass_change": -8.137158352811356,
+        "simulated_discharge": 243.35933848634934,
+        "latitude": 27.0,
+        "longitude": 85.0
+    },
+    {
+        "region": "15_south_asia_east",
+        "start_date": 2002.0,
+        "end_date": 2003.0,
+        "glacier_area": 14768.6249,
+        "glacier_mass_change": -6.998749077267797,
+        "simulated_discharge": 212.45128846359341,
+        "latitude": 27.0,
+        "longitude": 85.0
+    },
+    {
+        "region": "15_south_asia_east",
+        "start_date": 2003.0,
+        "end_date": 2004.0,
+        "glacier_area": 14699.3751,
+        "glacier_mass_change": -8.198889903697747,
+        "simulated_discharge": 245.03536300913603,
+        "latitude": 27.0,
+        "longitude": 85.0
+    },
+    {
+        "region": "15_south_asia_east",
+        "start_date": 2004.0,
+        "end_date": 2005.0,
+        "glacier_area": 14630.1253,
+        "glacier_mass_change": -8.98001140526133,
+        "simulated_discharge": 266.2429752122691,
+        "latitude": 27.0,
+        "longitude": 85.0
+    },
+    {
+        "region": "15_south_asia_east",
+        "start_date": 2005.0,
+        "end_date": 2006.0,
+        "glacier_area": 14560.8755,
+        "glacier_mass_change": -5.8649778560322,
+        "simulated_discharge": 181.66916258572846,
+        "latitude": 27.0,
+        "longitude": 85.0
+    },
+    {
+        "region": "15_south_asia_east",
+        "start_date": 2006.0,
+        "end_date": 2007.0,
+        "glacier_area": 14491.6257,
+        "glacier_mass_change": -10.705225792838034,
+        "simulated_discharge": 313.08290680518303,
+        "latitude": 27.0,
+        "longitude": 85.0
+    },
+    {
+        "region": "15_south_asia_east",
+        "start_date": 2007.0,
+        "end_date": 2008.0,
+        "glacier_area": 14422.3759,
+        "glacier_mass_change": -5.000839525910631,
+        "simulated_discharge": 158.2076261174618,
+        "latitude": 27.0,
+        "longitude": 85.0
+    },
+    {
+        "region": "15_south_asia_east",
+        "start_date": 2008.0,
+        "end_date": 2009.0,
+        "glacier_area": 14353.1261,
+        "glacier_mass_change": -5.511233648377613,
+        "simulated_discharge": 172.06493333326767,
+        "latitude": 27.0,
+        "longitude": 85.0
+    },
+    {
+        "region": "15_south_asia_east",
+        "start_date": 2009.0,
+        "end_date": 2010.0,
+        "glacier_area": 14283.8763,
+        "glacier_mass_change": -6.207572947749696,
+        "simulated_discharge": 190.97069100774445,
+        "latitude": 27.0,
+        "longitude": 85.0
+    },
+    {
+        "region": "15_south_asia_east",
+        "start_date": 2010.0,
+        "end_date": 2011.0,
+        "glacier_area": 14214.6265,
+        "glacier_mass_change": -4.663836245068104,
+        "simulated_discharge": 149.0579165306875,
+        "latitude": 27.0,
+        "longitude": 85.0
+    },
+    {
+        "region": "15_south_asia_east",
+        "start_date": 2011.0,
+        "end_date": 2012.0,
+        "glacier_area": 14145.3767,
+        "glacier_mass_change": 0.8262841166758295,
+        "simulated_discharge": 0.0,
+        "latitude": 27.0,
+        "longitude": 85.0
+    },
+    {
+        "region": "15_south_asia_east",
+        "start_date": 2012.0,
+        "end_date": 2013.0,
+        "glacier_area": 14076.1269,
+        "glacier_mass_change": -9.263476118598678,
+        "simulated_discharge": 273.93910148929155,
+        "latitude": 27.0,
+        "longitude": 85.0
+    },
+    {
+        "region": "15_south_asia_east",
+        "start_date": 2013.0,
+        "end_date": 2014.0,
+        "glacier_area": 14006.8771,
+        "glacier_mass_change": -4.762808642776319,
+        "simulated_discharge": 151.74503783666688,
+        "latitude": 27.0,
+        "longitude": 85.0
+    },
+    {
+        "region": "15_south_asia_east",
+        "start_date": 2014.0,
+        "end_date": 2015.0,
+        "glacier_area": 13937.6273,
+        "glacier_mass_change": -7.233284672588605,
+        "simulated_discharge": 218.81897894892538,
+        "latitude": 27.0,
+        "longitude": 85.0
+    },
+    {
+        "region": "15_south_asia_east",
+        "start_date": 2015.0,
+        "end_date": 2016.0,
+        "glacier_area": 13868.3775,
+        "glacier_mass_change": -6.492342790490154,
+        "simulated_discharge": 198.70225182113626,
+        "latitude": 27.0,
+        "longitude": 85.0
+    },
+    {
+        "region": "15_south_asia_east",
+        "start_date": 2016.0,
+        "end_date": 2017.0,
+        "glacier_area": 13799.1277,
+        "glacier_mass_change": -3.767927807121404,
+        "simulated_discharge": 124.73381498764263,
+        "latitude": 27.0,
+        "longitude": 85.0
+    },
+    {
+        "region": "15_south_asia_east",
+        "start_date": 2017.0,
+        "end_date": 2018.0,
+        "glacier_area": 13729.8779,
+        "glacier_mass_change": -17.122102144399964,
+        "simulated_discharge": 487.3024423665188,
+        "latitude": 27.0,
+        "longitude": 85.0
+    },
+    {
+        "region": "15_south_asia_east",
+        "start_date": 2018.0,
+        "end_date": 2019.0,
+        "glacier_area": 13660.6281,
+        "glacier_mass_change": -4.530994315133016,
+        "simulated_discharge": 145.45123033815565,
+        "latitude": 27.0,
+        "longitude": 85.0
+    },
+    {
+        "region": "15_south_asia_east",
+        "start_date": 2019.0,
+        "end_date": 2020.0,
+        "glacier_area": 13591.3783,
+        "glacier_mass_change": -8.507998145090227,
+        "simulated_discharge": 253.42771643830426,
+        "latitude": 27.0,
+        "longitude": 85.0
+    },
+    {
+        "region": "15_south_asia_east",
+        "start_date": 2020.0,
+        "end_date": 2021.0,
+        "glacier_area": 13522.1285,
+        "glacier_mass_change": -5.707608395472385,
+        "simulated_discharge": 177.39654880478884,
+        "latitude": 27.0,
+        "longitude": 85.0
+    },
+    {
+        "region": "15_south_asia_east",
+        "start_date": 2021.0,
+        "end_date": 2022.0,
+        "glacier_area": 13452.8787,
+        "glacier_mass_change": -4.153046594747883,
+        "simulated_discharge": 135.18987065090909,
+        "latitude": 27.0,
+        "longitude": 85.0
+    },
+    {
+        "region": "15_south_asia_east",
+        "start_date": 2022.0,
+        "end_date": 2023.0,
+        "glacier_area": 13383.6289,
+        "glacier_mass_change": -15.619011518634077,
+        "simulated_discharge": 446.49321738218674,
+        "latitude": 27.0,
+        "longitude": 85.0
+    },
+    {
+        "region": "15_south_asia_east",
+        "start_date": 2023.0,
+        "end_date": 2024.0,
+        "glacier_area": 13314.3791,
+        "glacier_mass_change": -17.589780221019534,
+        "simulated_discharge": 500.0,
+        "latitude": 27.0,
+        "longitude": 85.0
+    },
+    {
+        "region": "18_new_zealand",
+        "start_date": 2000.0,
+        "end_date": 2001.0,
+        "glacier_area": 981.5995,
+        "glacier_mass_change": 0.0879743435703125,
+        "simulated_discharge": 124.52267787019267,
+        "latitude": -41.2865,
+        "longitude": 174.7762
+    },
+    {
+        "region": "18_new_zealand",
+        "start_date": 2001.0,
+        "end_date": 2002.0,
+        "glacier_area": 973.5817,
+        "glacier_mass_change": -0.94077364134553,
+        "simulated_discharge": 294.7192901352639,
+        "latitude": -41.2865,
+        "longitude": 174.7762
+    },
+    {
+        "region": "18_new_zealand",
+        "start_date": 2002.0,
+        "end_date": 2003.0,
+        "glacier_area": 965.5639,
+        "glacier_mass_change": -1.020883713895824,
+        "simulated_discharge": 307.97274302779573,
+        "latitude": -41.2865,
+        "longitude": 174.7762
+    },
+    {
+        "region": "18_new_zealand",
+        "start_date": 2003.0,
+        "end_date": 2004.0,
+        "glacier_area": 957.5461,
+        "glacier_mass_change": -1.4815955888514936,
+        "simulated_discharge": 384.19315997875435,
+        "latitude": -41.2865,
+        "longitude": 174.7762
+    },
+    {
+        "region": "18_new_zealand",
+        "start_date": 2004.0,
+        "end_date": 2005.0,
+        "glacier_area": 949.5283,
+        "glacier_mass_change": -0.534730129084154,
+        "simulated_discharge": 227.54323610415884,
+        "latitude": -41.2865,
+        "longitude": 174.7762
+    },
+    {
+        "region": "18_new_zealand",
+        "start_date": 2005.0,
+        "end_date": 2006.0,
+        "glacier_area": 941.5105,
+        "glacier_mass_change": 0.1857570750016101,
+        "simulated_discharge": 108.3454509189355,
+        "latitude": -41.2865,
+        "longitude": 174.7762
+    },
+    {
+        "region": "18_new_zealand",
+        "start_date": 2006.0,
+        "end_date": 2007.0,
+        "glacier_area": 933.4927,
+        "glacier_mass_change": 0.8406476913557156,
+        "simulated_discharge": 0.0,
+        "latitude": -41.2865,
+        "longitude": 174.7762
+    },
+    {
+        "region": "18_new_zealand",
+        "start_date": 2007.0,
+        "end_date": 2008.0,
+        "glacier_area": 925.4749,
+        "glacier_mass_change": -0.5992142058732299,
+        "simulated_discharge": 238.21151597003802,
+        "latitude": -41.2865,
+        "longitude": 174.7762
+    },
+    {
+        "region": "18_new_zealand",
+        "start_date": 2008.0,
+        "end_date": 2009.0,
+        "glacier_area": 917.4571,
+        "glacier_mass_change": -2.1815863332370538,
+        "simulated_discharge": 500.0,
+        "latitude": -41.2865,
+        "longitude": 174.7762
+    },
+    {
+        "region": "18_new_zealand",
+        "start_date": 2009.0,
+        "end_date": 2010.0,
+        "glacier_area": 909.4393,
+        "glacier_mass_change": -0.1010482490554054,
+        "simulated_discharge": 155.7946758504265,
+        "latitude": -41.2865,
+        "longitude": 174.7762
+    },
+    {
+        "region": "18_new_zealand",
+        "start_date": 2010.0,
+        "end_date": 2011.0,
+        "glacier_area": 901.4215,
+        "glacier_mass_change": -1.489786079497439,
+        "simulated_discharge": 385.54819909539736,
+        "latitude": -41.2865,
+        "longitude": 174.7762
+    },
+    {
+        "region": "18_new_zealand",
+        "start_date": 2011.0,
+        "end_date": 2012.0,
+        "glacier_area": 893.4037000000001,
+        "glacier_mass_change": -1.8505679072267331,
+        "simulated_discharge": 445.2361360310402,
+        "latitude": -41.2865,
+        "longitude": 174.7762
+    },
+    {
+        "region": "18_new_zealand",
+        "start_date": 2012.0,
+        "end_date": 2013.0,
+        "glacier_area": 885.3859,
+        "glacier_mass_change": -0.2441112063576637,
+        "simulated_discharge": 179.46308738608434,
+        "latitude": -41.2865,
+        "longitude": 174.7762
+    },
+    {
+        "region": "18_new_zealand",
+        "start_date": 2013.0,
+        "end_date": 2014.0,
+        "glacier_area": 877.3681,
+        "glacier_mass_change": 0.0497800113362103,
+        "simulated_discharge": 130.841568453004,
+        "latitude": -41.2865,
+        "longitude": 174.7762
+    },
+    {
+        "region": "18_new_zealand",
+        "start_date": 2014.0,
+        "end_date": 2015.0,
+        "glacier_area": 869.3503000000001,
+        "glacier_mass_change": -0.2056041796257262,
+        "simulated_discharge": 173.09246445970027,
+        "latitude": -41.2865,
+        "longitude": 174.7762
+    },
+    {
+        "region": "18_new_zealand",
+        "start_date": 2015.0,
+        "end_date": 2016.0,
+        "glacier_area": 861.3325,
+        "glacier_mass_change": -0.1545894695964328,
+        "simulated_discharge": 164.65256377461563,
+        "latitude": -41.2865,
+        "longitude": 174.7762
+    },
+    {
+        "region": "18_new_zealand",
+        "start_date": 2016.0,
+        "end_date": 2017.0,
+        "glacier_area": 853.3147,
+        "glacier_mass_change": -1.3500601973377886,
+        "simulated_discharge": 362.4318750412935,
+        "latitude": -41.2865,
+        "longitude": 174.7762
+    },
+    {
+        "region": "18_new_zealand",
+        "start_date": 2017.0,
+        "end_date": 2018.0,
+        "glacier_area": 845.2969,
+        "glacier_mass_change": -0.5357355420070528,
+        "simulated_discharge": 227.7095721513871,
+        "latitude": -41.2865,
+        "longitude": 174.7762
+    },
+    {
+        "region": "18_new_zealand",
+        "start_date": 2018.0,
+        "end_date": 2019.0,
+        "glacier_area": 837.2791,
+        "glacier_mass_change": -2.020976853697841,
+        "simulated_discharge": 473.42868251891014,
+        "latitude": -41.2865,
+        "longitude": 174.7762
+    },
+    {
+        "region": "18_new_zealand",
+        "start_date": 2019.0,
+        "end_date": 2020.0,
+        "glacier_area": 829.2613,
+        "glacier_mass_change": -1.8455830286413584,
+        "simulated_discharge": 444.4114350739318,
+        "latitude": -41.2865,
+        "longitude": 174.7762
+    },
+    {
+        "region": "18_new_zealand",
+        "start_date": 2020.0,
+        "end_date": 2021.0,
+        "glacier_area": 821.2435,
+        "glacier_mass_change": -1.3979458572570234,
+        "simulated_discharge": 370.3541040165442,
+        "latitude": -41.2865,
+        "longitude": 174.7762
+    },
+    {
+        "region": "18_new_zealand",
+        "start_date": 2021.0,
+        "end_date": 2022.0,
+        "glacier_area": 813.2257,
+        "glacier_mass_change": -0.0666513400570155,
+        "simulated_discharge": 150.1040329818577,
+        "latitude": -41.2865,
+        "longitude": 174.7762
+    },
+    {
+        "region": "18_new_zealand",
+        "start_date": 2022.0,
+        "end_date": 2023.0,
+        "glacier_area": 805.2079,
+        "glacier_mass_change": -1.8364658742589812,
+        "simulated_discharge": 442.9030882172376,
+        "latitude": -41.2865,
+        "longitude": 174.7762
+    },
+    {
+        "region": "18_new_zealand",
+        "start_date": 2023.0,
+        "end_date": 2024.0,
+        "glacier_area": 797.1901,
+        "glacier_mass_change": -1.2971385849938588,
+        "simulated_discharge": 353.676495425868,
+        "latitude": -41.2865,
+        "longitude": 174.7762
+    },
+    {
+        "region": "16_low_latitudes",
+        "start_date": 2000.0,
+        "end_date": 2001.0,
+        "glacier_area": 2354.92895,
+        "glacier_mass_change": 0.3705258618555614,
+        "simulated_discharge": 91.53671089239934,
+        "latitude": 0.0,
+        "longitude": -60.0
+    },
+    {
+        "region": "16_low_latitudes",
+        "start_date": 2001.0,
+        "end_date": 2002.0,
+        "glacier_area": 2327.07105,
+        "glacier_mass_change": -0.3070070498935514,
+        "simulated_discharge": 179.67193729350862,
+        "latitude": 0.0,
+        "longitude": -60.0
+    },
+    {
+        "region": "16_low_latitudes",
+        "start_date": 2002.0,
+        "end_date": 2003.0,
+        "glacier_area": 2299.21315,
+        "glacier_mass_change": -1.2859863528499784,
+        "simulated_discharge": 307.0200867513977,
+        "latitude": 0.0,
+        "longitude": -60.0
+    },
+    {
+        "region": "16_low_latitudes",
+        "start_date": 2003.0,
+        "end_date": 2004.0,
+        "glacier_area": 2271.35525,
+        "glacier_mass_change": -1.5816633780124076,
+        "simulated_discharge": 345.4825158118872,
+        "latitude": 0.0,
+        "longitude": -60.0
+    },
+    {
+        "region": "16_low_latitudes",
+        "start_date": 2004.0,
+        "end_date": 2005.0,
+        "glacier_area": 2243.49735,
+        "glacier_mass_change": -2.4619022051780592,
+        "simulated_discharge": 459.98624983568783,
+        "latitude": 0.0,
+        "longitude": -60.0
+    },
+    {
+        "region": "16_low_latitudes",
+        "start_date": 2005.0,
+        "end_date": 2006.0,
+        "glacier_area": 2215.63945,
+        "glacier_mass_change": -2.769504894430206,
+        "simulated_discharge": 500.0,
+        "latitude": 0.0,
+        "longitude": -60.0
+    },
+    {
+        "region": "16_low_latitudes",
+        "start_date": 2006.0,
+        "end_date": 2007.0,
+        "glacier_area": 2187.78155,
+        "glacier_mass_change": -0.6472329547886849,
+        "simulated_discharge": 223.92939938201962,
+        "latitude": 0.0,
+        "longitude": -60.0
+    },
+    {
+        "region": "16_low_latitudes",
+        "start_date": 2007.0,
+        "end_date": 2008.0,
+        "glacier_area": 2159.92365,
+        "glacier_mass_change": 0.2943631715954311,
+        "simulated_discharge": 101.44414982708511,
+        "latitude": 0.0,
+        "longitude": -60.0
+    },
+    {
+        "region": "16_low_latitudes",
+        "start_date": 2008.0,
+        "end_date": 2009.0,
+        "glacier_area": 2132.06575,
+        "glacier_mass_change": 1.0742074293211157,
+        "simulated_discharge": 0.0,
+        "latitude": 0.0,
+        "longitude": -60.0
+    },
+    {
+        "region": "16_low_latitudes",
+        "start_date": 2009.0,
+        "end_date": 2010.0,
+        "glacier_area": 2104.20785,
+        "glacier_mass_change": -1.8409386137271275,
+        "simulated_discharge": 379.20970633452197,
+        "latitude": 0.0,
+        "longitude": -60.0
+    },
+    {
+        "region": "16_low_latitudes",
+        "start_date": 2010.0,
+        "end_date": 2011.0,
+        "glacier_area": 2076.34995,
+        "glacier_mass_change": -1.8410246444614369,
+        "simulated_discharge": 379.2208974340454,
+        "latitude": 0.0,
+        "longitude": -60.0
+    },
+    {
+        "region": "16_low_latitudes",
+        "start_date": 2011.0,
+        "end_date": 2012.0,
+        "glacier_area": 2048.49205,
+        "glacier_mass_change": -0.1241596044782535,
+        "simulated_discharge": 155.88667060153543,
+        "latitude": 0.0,
+        "longitude": -60.0
+    },
+    {
+        "region": "16_low_latitudes",
+        "start_date": 2012.0,
+        "end_date": 2013.0,
+        "glacier_area": 2020.63415,
+        "glacier_mass_change": -0.0184015312558621,
+        "simulated_discharge": 142.12938801708137,
+        "latitude": 0.0,
+        "longitude": -60.0
+    },
+    {
+        "region": "16_low_latitudes",
+        "start_date": 2013.0,
+        "end_date": 2014.0,
+        "glacier_area": 1992.77625,
+        "glacier_mass_change": -0.5516197398382917,
+        "simulated_discharge": 211.49178609348422,
+        "latitude": 0.0,
+        "longitude": -60.0
+    },
+    {
+        "region": "16_low_latitudes",
+        "start_date": 2014.0,
+        "end_date": 2015.0,
+        "glacier_area": 1964.91835,
+        "glacier_mass_change": -0.239795478092252,
+        "simulated_discharge": 170.92888290491902,
+        "latitude": 0.0,
+        "longitude": -60.0
+    },
+    {
+        "region": "16_low_latitudes",
+        "start_date": 2015.0,
+        "end_date": 2016.0,
+        "glacier_area": 1937.06045,
+        "glacier_mass_change": -1.6897583338338864,
+        "simulated_discharge": 359.54378610435043,
+        "latitude": 0.0,
+        "longitude": -60.0
+    },
+    {
+        "region": "16_low_latitudes",
+        "start_date": 2016.0,
+        "end_date": 2017.0,
+        "glacier_area": 1909.20255,
+        "glacier_mass_change": -2.36942463411635,
+        "simulated_discharge": 447.9565291812224,
+        "latitude": 0.0,
+        "longitude": -60.0
+    },
+    {
+        "region": "16_low_latitudes",
+        "start_date": 2017.0,
+        "end_date": 2018.0,
+        "glacier_area": 1881.34465,
+        "glacier_mass_change": -0.6457522446867621,
+        "simulated_discharge": 223.73678479783587,
+        "latitude": 0.0,
+        "longitude": -60.0
+    },
+    {
+        "region": "16_low_latitudes",
+        "start_date": 2018.0,
+        "end_date": 2019.0,
+        "glacier_area": 1853.48675,
+        "glacier_mass_change": -0.1008118792306184,
+        "simulated_discharge": 152.8495383604773,
+        "latitude": 0.0,
+        "longitude": -60.0
+    },
+    {
+        "region": "16_low_latitudes",
+        "start_date": 2019.0,
+        "end_date": 2020.0,
+        "glacier_area": 1825.62885,
+        "glacier_mass_change": -0.900957994194518,
+        "simulated_discharge": 256.9346060721768,
+        "latitude": 0.0,
+        "longitude": -60.0
+    },
+    {
+        "region": "16_low_latitudes",
+        "start_date": 2020.0,
+        "end_date": 2021.0,
+        "glacier_area": 1797.77095,
+        "glacier_mass_change": -0.562694930155122,
+        "simulated_discharge": 212.93247537821475,
+        "latitude": 0.0,
+        "longitude": -60.0
+    },
+    {
+        "region": "16_low_latitudes",
+        "start_date": 2021.0,
+        "end_date": 2022.0,
+        "glacier_area": 1769.91305,
+        "glacier_mass_change": 0.0949249570660994,
+        "simulated_discharge": 127.38758650117616,
+        "latitude": 0.0,
+        "longitude": -60.0
+    },
+    {
+        "region": "16_low_latitudes",
+        "start_date": 2022.0,
+        "end_date": 2023.0,
+        "glacier_area": 1742.05515,
+        "glacier_mass_change": 0.0057083128047794,
+        "simulated_discharge": 138.99311739770383,
+        "latitude": 0.0,
+        "longitude": -60.0
+    },
+    {
+        "region": "16_low_latitudes",
+        "start_date": 2023.0,
+        "end_date": 2024.0,
+        "glacier_area": 1714.1972500000002,
+        "glacier_mass_change": -2.3020962323277,
+        "simulated_discharge": 439.1982772469387,
+        "latitude": 0.0,
+        "longitude": -60.0
+    },
+    {
+        "region": "5_greenland_periphery",
+        "start_date": 2000.0,
+        "end_date": 2001.0,
+        "glacier_area": 89349.1603,
+        "glacier_mass_change": -41.2912682002374,
+        "simulated_discharge": 290.71738160290073,
+        "latitude": 72.0,
+        "longitude": -40.0
+    },
+    {
+        "region": "5_greenland_periphery",
+        "start_date": 2001.0,
+        "end_date": 2002.0,
+        "glacier_area": 88613.4809,
+        "glacier_mass_change": -30.259115172023737,
+        "simulated_discharge": 239.38948930445224,
+        "latitude": 72.0,
+        "longitude": -40.0
+    },
+    {
+        "region": "5_greenland_periphery",
+        "start_date": 2002.0,
+        "end_date": 2003.0,
+        "glacier_area": 87877.8015,
+        "glacier_mass_change": -4.633022444104562,
+        "simulated_discharge": 120.16223382631924,
+        "latitude": 72.0,
+        "longitude": -40.0
+    },
+    {
+        "region": "5_greenland_periphery",
+        "start_date": 2003.0,
+        "end_date": 2004.0,
+        "glacier_area": 87142.12210000001,
+        "glacier_mass_change": 21.19402971840975,
+        "simulated_discharge": 0.0,
+        "latitude": 72.0,
+        "longitude": -40.0
+    },
+    {
+        "region": "5_greenland_periphery",
+        "start_date": 2004.0,
+        "end_date": 2005.0,
+        "glacier_area": 86406.4427,
+        "glacier_mass_change": -21.61789893283536,
+        "simulated_discharge": 199.1856038690013,
+        "latitude": 72.0,
+        "longitude": -40.0
+    },
+    {
+        "region": "5_greenland_periphery",
+        "start_date": 2005.0,
+        "end_date": 2006.0,
+        "glacier_area": 85670.7633,
+        "glacier_mass_change": -73.56189179697199,
+        "simulated_discharge": 440.8587989799915,
+        "latitude": 72.0,
+        "longitude": -40.0
+    },
+    {
+        "region": "5_greenland_periphery",
+        "start_date": 2006.0,
+        "end_date": 2007.0,
+        "glacier_area": 84935.0839,
+        "glacier_mass_change": -11.901237733591891,
+        "simulated_discharge": 153.97813273804312,
+        "latitude": 72.0,
+        "longitude": -40.0
+    },
+    {
+        "region": "5_greenland_periphery",
+        "start_date": 2007.0,
+        "end_date": 2008.0,
+        "glacier_area": 84199.4045,
+        "glacier_mass_change": -54.51899453837374,
+        "simulated_discharge": 352.2603380050518,
+        "latitude": 72.0,
+        "longitude": -40.0
+    },
+    {
+        "region": "5_greenland_periphery",
+        "start_date": 2008.0,
+        "end_date": 2009.0,
+        "glacier_area": 83463.7251,
+        "glacier_mass_change": -31.569572236755583,
+        "simulated_discharge": 245.48648586607342,
+        "latitude": 72.0,
+        "longitude": -40.0
+    },
+    {
+        "region": "5_greenland_periphery",
+        "start_date": 2009.0,
+        "end_date": 2010.0,
+        "glacier_area": 82728.0457,
+        "glacier_mass_change": -44.34081127000205,
+        "simulated_discharge": 304.9056019660572,
+        "latitude": 72.0,
+        "longitude": -40.0
+    },
+    {
+        "region": "5_greenland_periphery",
+        "start_date": 2010.0,
+        "end_date": 2011.0,
+        "glacier_area": 81992.3663,
+        "glacier_mass_change": -63.50411891699192,
+        "simulated_discharge": 394.06428100823854,
+        "latitude": 72.0,
+        "longitude": -40.0
+    },
+    {
+        "region": "5_greenland_periphery",
+        "start_date": 2011.0,
+        "end_date": 2012.0,
+        "glacier_area": 81256.6869,
+        "glacier_mass_change": -73.61889642826725,
+        "simulated_discharge": 441.1240171625306,
+        "latitude": 72.0,
+        "longitude": -40.0
+    },
+    {
+        "region": "5_greenland_periphery",
+        "start_date": 2012.0,
+        "end_date": 2013.0,
+        "glacier_area": 80521.0075,
+        "glacier_mass_change": -45.04805361014524,
+        "simulated_discharge": 308.19609826092693,
+        "latitude": 72.0,
+        "longitude": -40.0
+    },
+    {
+        "region": "5_greenland_periphery",
+        "start_date": 2013.0,
+        "end_date": 2014.0,
+        "glacier_area": 79785.3281,
+        "glacier_mass_change": -37.84487762507106,
+        "simulated_discharge": 274.6827994313036,
+        "latitude": 72.0,
+        "longitude": -40.0
+    },
+    {
+        "region": "5_greenland_periphery",
+        "start_date": 2014.0,
+        "end_date": 2015.0,
+        "glacier_area": 79049.6487,
+        "glacier_mass_change": 2.5817383158773253,
+        "simulated_discharge": 86.59503599101276,
+        "latitude": 72.0,
+        "longitude": -40.0
+    },
+    {
+        "region": "5_greenland_periphery",
+        "start_date": 2015.0,
+        "end_date": 2016.0,
+        "glacier_area": 78313.9693,
+        "glacier_mass_change": -9.433257622014974,
+        "simulated_discharge": 142.49567622771642,
+        "latitude": 72.0,
+        "longitude": -40.0
+    },
+    {
+        "region": "5_greenland_periphery",
+        "start_date": 2016.0,
+        "end_date": 2017.0,
+        "glacier_area": 77578.2899,
+        "glacier_mass_change": -53.45383656825312,
+        "simulated_discharge": 347.30461327649095,
+        "latitude": 72.0,
+        "longitude": -40.0
+    },
+    {
+        "region": "5_greenland_periphery",
+        "start_date": 2017.0,
+        "end_date": 2018.0,
+        "glacier_area": 76842.6105,
+        "glacier_mass_change": 7.709968424686927,
+        "simulated_discharge": 62.73557337900254,
+        "latitude": 72.0,
+        "longitude": -40.0
+    },
+    {
+        "region": "5_greenland_periphery",
+        "start_date": 2018.0,
+        "end_date": 2019.0,
+        "glacier_area": 76106.9311,
+        "glacier_mass_change": 12.001662332086804,
+        "simulated_discharge": 42.76815613111129,
+        "latitude": 72.0,
+        "longitude": -40.0
+    },
+    {
+        "region": "5_greenland_periphery",
+        "start_date": 2019.0,
+        "end_date": 2020.0,
+        "glacier_area": 75371.2517,
+        "glacier_mass_change": -73.00240051873962,
+        "simulated_discharge": 438.25572521935834,
+        "latitude": 72.0,
+        "longitude": -40.0
+    },
+    {
+        "region": "5_greenland_periphery",
+        "start_date": 2020.0,
+        "end_date": 2021.0,
+        "glacier_area": 74635.5723,
+        "glacier_mass_change": -39.04193946889865,
+        "simulated_discharge": 280.252216501338,
+        "latitude": 72.0,
+        "longitude": -40.0
+    },
+    {
+        "region": "5_greenland_periphery",
+        "start_date": 2021.0,
+        "end_date": 2022.0,
+        "glacier_area": 73899.8929,
+        "glacier_mass_change": -52.79326670883994,
+        "simulated_discharge": 344.23126408410303,
+        "latitude": 72.0,
+        "longitude": -40.0
+    },
+    {
+        "region": "5_greenland_periphery",
+        "start_date": 2022.0,
+        "end_date": 2023.0,
+        "glacier_area": 73164.2135,
+        "glacier_mass_change": -46.25762631952477,
+        "simulated_discharge": 313.82372304055053,
+        "latitude": 72.0,
+        "longitude": -40.0
+    },
+    {
+        "region": "5_greenland_periphery",
+        "start_date": 2023.0,
+        "end_date": 2024.0,
+        "glacier_area": 72428.5341,
+        "glacier_mass_change": -86.27339719312873,
+        "simulated_discharge": 500.0,
+        "latitude": 72.0,
+        "longitude": -40.0
+    },
+    {
+        "region": "13_central_asia",
+        "start_date": 2000.0,
+        "end_date": 2001.0,
+        "glacier_area": 49702.3543,
+        "glacier_mass_change": 2.9975381821101768,
+        "simulated_discharge": 157.5972468293047,
+        "latitude": 43.0,
+        "longitude": 75.0
+    },
+    {
+        "region": "13_central_asia",
+        "start_date": 2001.0,
+        "end_date": 2002.0,
+        "glacier_area": 49613.6089,
+        "glacier_mass_change": -14.36815509049936,
+        "simulated_discharge": 293.9398853633619,
+        "latitude": 43.0,
+        "longitude": 75.0
+    },
+    {
+        "region": "13_central_asia",
+        "start_date": 2002.0,
+        "end_date": 2003.0,
+        "glacier_area": 49524.8635,
+        "glacier_mass_change": -10.731484657993787,
+        "simulated_discharge": 265.3874265318642,
+        "latitude": 43.0,
+        "longitude": 75.0
+    },
+    {
+        "region": "13_central_asia",
+        "start_date": 2003.0,
+        "end_date": 2004.0,
+        "glacier_area": 49436.1181,
+        "glacier_mass_change": 12.160601523846324,
+        "simulated_discharge": 85.65561953835649,
+        "latitude": 43.0,
+        "longitude": 75.0
+    },
+    {
+        "region": "13_central_asia",
+        "start_date": 2004.0,
+        "end_date": 2005.0,
+        "glacier_area": 49347.3727,
+        "glacier_mass_change": 8.206079680365974,
+        "simulated_discharge": 116.70361363894871,
+        "latitude": 43.0,
+        "longitude": 75.0
+    },
+    {
+        "region": "13_central_asia",
+        "start_date": 2005.0,
+        "end_date": 2006.0,
+        "glacier_area": 49258.6273,
+        "glacier_mass_change": 3.2325794931738434,
+        "simulated_discharge": 155.75187549791823,
+        "latitude": 43.0,
+        "longitude": 75.0
+    },
+    {
+        "region": "13_central_asia",
+        "start_date": 2006.0,
+        "end_date": 2007.0,
+        "glacier_area": 49169.8819,
+        "glacier_mass_change": -25.270664773678984,
+        "simulated_discharge": 379.53836470494974,
+        "latitude": 43.0,
+        "longitude": 75.0
+    },
+    {
+        "region": "13_central_asia",
+        "start_date": 2007.0,
+        "end_date": 2008.0,
+        "glacier_area": 49081.1365,
+        "glacier_mass_change": -21.34492309243656,
+        "simulated_discharge": 348.71633124959965,
+        "latitude": 43.0,
+        "longitude": 75.0
+    },
+    {
+        "region": "13_central_asia",
+        "start_date": 2008.0,
+        "end_date": 2009.0,
+        "glacier_area": 48992.3911,
+        "glacier_mass_change": -31.48646052430057,
+        "simulated_discharge": 428.34021671999324,
+        "latitude": 43.0,
+        "longitude": 75.0
+    },
+    {
+        "region": "13_central_asia",
+        "start_date": 2009.0,
+        "end_date": 2010.0,
+        "glacier_area": 48903.6457,
+        "glacier_mass_change": 23.07038904132115,
+        "simulated_discharge": 0.0,
+        "latitude": 43.0,
+        "longitude": 75.0
+    },
+    {
+        "region": "13_central_asia",
+        "start_date": 2010.0,
+        "end_date": 2011.0,
+        "glacier_area": 48814.9003,
+        "glacier_mass_change": -10.75649385006233,
+        "simulated_discharge": 265.5837802956156,
+        "latitude": 43.0,
+        "longitude": 75.0
+    },
+    {
+        "region": "13_central_asia",
+        "start_date": 2011.0,
+        "end_date": 2012.0,
+        "glacier_area": 48726.1549,
+        "glacier_mass_change": 4.677905826930605,
+        "simulated_discharge": 144.40423720938705,
+        "latitude": 43.0,
+        "longitude": 75.0
+    },
+    {
+        "region": "13_central_asia",
+        "start_date": 2012.0,
+        "end_date": 2013.0,
+        "glacier_area": 48637.4095,
+        "glacier_mass_change": -12.448555179098824,
+        "simulated_discharge": 278.86860011482526,
+        "latitude": 43.0,
+        "longitude": 75.0
+    },
+    {
+        "region": "13_central_asia",
+        "start_date": 2013.0,
+        "end_date": 2014.0,
+        "glacier_area": 48548.6641,
+        "glacier_mass_change": -9.558388235951202,
+        "simulated_discharge": 256.17713708788204,
+        "latitude": 43.0,
+        "longitude": 75.0
+    },
+    {
+        "region": "13_central_asia",
+        "start_date": 2014.0,
+        "end_date": 2015.0,
+        "glacier_area": 48459.9187,
+        "glacier_mass_change": -2.956071807406667,
+        "simulated_discharge": 204.3406092756384,
+        "latitude": 43.0,
+        "longitude": 75.0
+    },
+    {
+        "region": "13_central_asia",
+        "start_date": 2015.0,
+        "end_date": 2016.0,
+        "glacier_area": 48371.1733,
+        "glacier_mass_change": -19.779397061203017,
+        "simulated_discharge": 336.4249734303989,
+        "latitude": 43.0,
+        "longitude": 75.0
+    },
+    {
+        "region": "13_central_asia",
+        "start_date": 2016.0,
+        "end_date": 2017.0,
+        "glacier_area": 48282.4279,
+        "glacier_mass_change": -1.7738837045089502,
+        "simulated_discharge": 195.05893864709662,
+        "latitude": 43.0,
+        "longitude": 75.0
+    },
+    {
+        "region": "13_central_asia",
+        "start_date": 2017.0,
+        "end_date": 2018.0,
+        "glacier_area": 48193.6825,
+        "glacier_mass_change": -11.729947005651477,
+        "simulated_discharge": 273.2266177935961,
+        "latitude": 43.0,
+        "longitude": 75.0
+    },
+    {
+        "region": "13_central_asia",
+        "start_date": 2018.0,
+        "end_date": 2019.0,
+        "glacier_area": 48104.9371,
+        "glacier_mass_change": -25.09731281921282,
+        "simulated_discharge": 378.1773327843738,
+        "latitude": 43.0,
+        "longitude": 75.0
+    },
+    {
+        "region": "13_central_asia",
+        "start_date": 2019.0,
+        "end_date": 2020.0,
+        "glacier_area": 48016.1917,
+        "glacier_mass_change": -20.872552300354226,
+        "simulated_discharge": 345.00762356094606,
+        "latitude": 43.0,
+        "longitude": 75.0
+    },
+    {
+        "region": "13_central_asia",
+        "start_date": 2020.0,
+        "end_date": 2021.0,
+        "glacier_area": 47927.4463,
+        "glacier_mass_change": 4.568755389673656,
+        "simulated_discharge": 145.2612060835426,
+        "latitude": 43.0,
+        "longitude": 75.0
+    },
+    {
+        "region": "13_central_asia",
+        "start_date": 2021.0,
+        "end_date": 2022.0,
+        "glacier_area": 47838.7009,
+        "glacier_mass_change": -11.633133913436737,
+        "simulated_discharge": 272.4665126696609,
+        "latitude": 43.0,
+        "longitude": 75.0
+    },
+    {
+        "region": "13_central_asia",
+        "start_date": 2022.0,
+        "end_date": 2023.0,
+        "glacier_area": 47749.9555,
+        "glacier_mass_change": -40.61362594960092,
+        "simulated_discharge": 500.0,
+        "latitude": 43.0,
+        "longitude": 75.0
+    },
+    {
+        "region": "13_central_asia",
+        "start_date": 2023.0,
+        "end_date": 2024.0,
+        "glacier_area": 47661.2101,
+        "glacier_mass_change": -40.1200731250466,
+        "simulated_discharge": 496.1249865870998,
+        "latitude": 43.0,
+        "longitude": 75.0
+    },
+    {
+        "region": "2_western_canada_us",
+        "start_date": 2000.0,
+        "end_date": 2001.0,
+        "glacier_area": 14563.2148,
+        "glacier_mass_change": 6.971917908706984,
+        "simulated_discharge": 57.67578022028508,
+        "latitude": 52.9399,
+        "longitude": -106.4509
+    },
+    {
+        "region": "2_western_canada_us",
+        "start_date": 2001.0,
+        "end_date": 2002.0,
+        "glacier_area": 14484.7852,
+        "glacier_mass_change": -1.6612808463881623,
+        "simulated_discharge": 152.54014557031948,
+        "latitude": 52.9399,
+        "longitude": -106.4509
+    },
+    {
+        "region": "2_western_canada_us",
+        "start_date": 2002.0,
+        "end_date": 2003.0,
+        "glacier_area": 14406.3556,
+        "glacier_mass_change": 2.0771861792514,
+        "simulated_discharge": 111.46066717188441,
+        "latitude": 52.9399,
+        "longitude": -106.4509
+    },
+    {
+        "region": "2_western_canada_us",
+        "start_date": 2003.0,
+        "end_date": 2004.0,
+        "glacier_area": 14327.926,
+        "glacier_mass_change": -17.056030773498726,
+        "simulated_discharge": 321.70261049051186,
+        "latitude": 52.9399,
+        "longitude": -106.4509
+    },
+    {
+        "region": "2_western_canada_us",
+        "start_date": 2004.0,
+        "end_date": 2005.0,
+        "glacier_area": 14249.4964,
+        "glacier_mass_change": -16.80729443592748,
+        "simulated_discharge": 318.9694155910823,
+        "latitude": 52.9399,
+        "longitude": -106.4509
+    },
+    {
+        "region": "2_western_canada_us",
+        "start_date": 2005.0,
+        "end_date": 2006.0,
+        "glacier_area": 14171.0668,
+        "glacier_mass_change": -21.028659163977256,
+        "simulated_discharge": 365.3551292990078,
+        "latitude": 52.9399,
+        "longitude": -106.4509
+    },
+    {
+        "region": "2_western_canada_us",
+        "start_date": 2006.0,
+        "end_date": 2007.0,
+        "glacier_area": 14092.6372,
+        "glacier_mass_change": -8.342113934146381,
+        "simulated_discharge": 225.95128886244552,
+        "latitude": 52.9399,
+        "longitude": -106.4509
+    },
+    {
+        "region": "2_western_canada_us",
+        "start_date": 2007.0,
+        "end_date": 2008.0,
+        "glacier_area": 14014.2076,
+        "glacier_mass_change": 1.7805033372420636,
+        "simulated_discharge": 114.72071368718667,
+        "latitude": 52.9399,
+        "longitude": -106.4509
+    },
+    {
+        "region": "2_western_canada_us",
+        "start_date": 2008.0,
+        "end_date": 2009.0,
+        "glacier_area": 13935.778,
+        "glacier_mass_change": 3.3868051381654745,
+        "simulated_discharge": 97.07015272734726,
+        "latitude": 52.9399,
+        "longitude": -106.4509
+    },
+    {
+        "region": "2_western_canada_us",
+        "start_date": 2009.0,
+        "end_date": 2010.0,
+        "glacier_area": 13857.3484,
+        "glacier_mass_change": -12.903706819800696,
+        "simulated_discharge": 276.0755390226122,
+        "latitude": 52.9399,
+        "longitude": -106.4509
+    },
+    {
+        "region": "2_western_canada_us",
+        "start_date": 2010.0,
+        "end_date": 2011.0,
+        "glacier_area": 13778.9188,
+        "glacier_mass_change": 6.207456521254985,
+        "simulated_discharge": 66.0759278842597,
+        "latitude": 52.9399,
+        "longitude": -106.4509
+    },
+    {
+        "region": "2_western_canada_us",
+        "start_date": 2011.0,
+        "end_date": 2012.0,
+        "glacier_area": 13700.4892,
+        "glacier_mass_change": 12.22074313575233,
+        "simulated_discharge": 0.0,
+        "latitude": 52.9399,
+        "longitude": -106.4509
+    },
+    {
+        "region": "2_western_canada_us",
+        "start_date": 2012.0,
+        "end_date": 2013.0,
+        "glacier_area": 13622.0596,
+        "glacier_mass_change": 1.0773388501318926,
+        "simulated_discharge": 122.44731129007641,
+        "latitude": 52.9399,
+        "longitude": -106.4509
+    },
+    {
+        "region": "2_western_canada_us",
+        "start_date": 2013.0,
+        "end_date": 2014.0,
+        "glacier_area": 13543.63,
+        "glacier_mass_change": -16.240657004636397,
+        "simulated_discharge": 312.7430212003267,
+        "latitude": 52.9399,
+        "longitude": -106.4509
+    },
+    {
+        "region": "2_western_canada_us",
+        "start_date": 2014.0,
+        "end_date": 2015.0,
+        "glacier_area": 13465.2004,
+        "glacier_mass_change": -18.67077997041907,
+        "simulated_discharge": 339.44599415521907,
+        "latitude": 52.9399,
+        "longitude": -106.4509
+    },
+    {
+        "region": "2_western_canada_us",
+        "start_date": 2015.0,
+        "end_date": 2016.0,
+        "glacier_area": 13386.7708,
+        "glacier_mass_change": -28.95006204561516,
+        "simulated_discharge": 452.3980525961247,
+        "latitude": 52.9399,
+        "longitude": -106.4509
+    },
+    {
+        "region": "2_western_canada_us",
+        "start_date": 2016.0,
+        "end_date": 2017.0,
+        "glacier_area": 13308.3412,
+        "glacier_mass_change": -8.864805714406188,
+        "simulated_discharge": 231.69479430169676,
+        "latitude": 52.9399,
+        "longitude": -106.4509
+    },
+    {
+        "region": "2_western_canada_us",
+        "start_date": 2017.0,
+        "end_date": 2018.0,
+        "glacier_area": 13229.9116,
+        "glacier_mass_change": -4.836844783972129,
+        "simulated_discharge": 187.43426374286454,
+        "latitude": 52.9399,
+        "longitude": -106.4509
+    },
+    {
+        "region": "2_western_canada_us",
+        "start_date": 2018.0,
+        "end_date": 2019.0,
+        "glacier_area": 13151.482,
+        "glacier_mass_change": -8.838275285155387,
+        "simulated_discharge": 231.4032694098534,
+        "latitude": 52.9399,
+        "longitude": -106.4509
+    },
+    {
+        "region": "2_western_canada_us",
+        "start_date": 2019.0,
+        "end_date": 2020.0,
+        "glacier_area": 13073.0524,
+        "glacier_mass_change": -12.641308163481227,
+        "simulated_discharge": 273.19221816940495,
+        "latitude": 52.9399,
+        "longitude": -106.4509
+    },
+    {
+        "region": "2_western_canada_us",
+        "start_date": 2020.0,
+        "end_date": 2021.0,
+        "glacier_area": 12994.6228,
+        "glacier_mass_change": -11.421484744557484,
+        "simulated_discharge": 259.7884060068487,
+        "latitude": 52.9399,
+        "longitude": -106.4509
+    },
+    {
+        "region": "2_western_canada_us",
+        "start_date": 2021.0,
+        "end_date": 2022.0,
+        "glacier_area": 12916.1932,
+        "glacier_mass_change": -21.53130021966725,
+        "simulated_discharge": 370.8783109260682,
+        "latitude": 52.9399,
+        "longitude": -106.4509
+    },
+    {
+        "region": "2_western_canada_us",
+        "start_date": 2022.0,
+        "end_date": 2023.0,
+        "glacier_area": 12837.7636,
+        "glacier_mass_change": -12.492387413580618,
+        "simulated_discharge": 271.5558290594664,
+        "latitude": 52.9399,
+        "longitude": -106.4509
+    },
+    {
+        "region": "2_western_canada_us",
+        "start_date": 2023.0,
+        "end_date": 2024.0,
+        "glacier_area": 12759.334,
+        "glacier_mass_change": -33.28211098254605,
+        "simulated_discharge": 500.0,
+        "latitude": 52.9399,
+        "longitude": -106.4509
+    },
+    {
+        "region": "6_iceland",
+        "start_date": 2000.0,
+        "end_date": 2001.0,
+        "glacier_area": 11000.276,
+        "glacier_mass_change": -12.119282301800888,
+        "simulated_discharge": 253.7913469476465,
+        "latitude": 64.9631,
+        "longitude": -19.0208
+    },
+    {
+        "region": "6_iceland",
+        "start_date": 2001.0,
+        "end_date": 2002.0,
+        "glacier_area": 10960.46,
+        "glacier_mass_change": -7.880169982482089,
+        "simulated_discharge": 197.42972695826484,
+        "latitude": 64.9631,
+        "longitude": -19.0208
+    },
+    {
+        "region": "6_iceland",
+        "start_date": 2002.0,
+        "end_date": 2003.0,
+        "glacier_area": 10920.644,
+        "glacier_mass_change": -6.477842569043585,
+        "simulated_discharge": 178.78491671893286,
+        "latitude": 64.9631,
+        "longitude": -19.0208
+    },
+    {
+        "region": "6_iceland",
+        "start_date": 2003.0,
+        "end_date": 2004.0,
+        "glacier_area": 10880.828,
+        "glacier_mass_change": -13.226291076562983,
+        "simulated_discharge": 268.5097132442202,
+        "latitude": 64.9631,
+        "longitude": -19.0208
+    },
+    {
+        "region": "6_iceland",
+        "start_date": 2004.0,
+        "end_date": 2005.0,
+        "glacier_area": 10841.012,
+        "glacier_mass_change": -15.987179419707129,
+        "simulated_discharge": 305.2174312540156,
+        "latitude": 64.9631,
+        "longitude": -19.0208
+    },
+    {
+        "region": "6_iceland",
+        "start_date": 2005.0,
+        "end_date": 2006.0,
+        "glacier_area": 10801.196,
+        "glacier_mass_change": -15.450873871967536,
+        "simulated_discharge": 298.0869173154858,
+        "latitude": 64.9631,
+        "longitude": -19.0208
+    },
+    {
+        "region": "6_iceland",
+        "start_date": 2006.0,
+        "end_date": 2007.0,
+        "glacier_area": 10761.38,
+        "glacier_mass_change": -6.918354403676182,
+        "simulated_discharge": 184.64179399751785,
+        "latitude": 64.9631,
+        "longitude": -19.0208
+    },
+    {
+        "region": "6_iceland",
+        "start_date": 2007.0,
+        "end_date": 2008.0,
+        "glacier_area": 10721.564,
+        "glacier_mass_change": -10.334411364747451,
+        "simulated_discharge": 230.0603839755536,
+        "latitude": 64.9631,
+        "longitude": -19.0208
+    },
+    {
+        "region": "6_iceland",
+        "start_date": 2008.0,
+        "end_date": 2009.0,
+        "glacier_area": 10681.748,
+        "glacier_mass_change": -11.515369917058456,
+        "simulated_discharge": 245.76195829931657,
+        "latitude": 64.9631,
+        "longitude": -19.0208
+    },
+    {
+        "region": "6_iceland",
+        "start_date": 2009.0,
+        "end_date": 2010.0,
+        "glacier_area": 10641.932,
+        "glacier_mass_change": -2.9374468586318327,
+        "simulated_discharge": 131.71316617038187,
+        "latitude": 64.9631,
+        "longitude": -19.0208
+    },
+    {
+        "region": "6_iceland",
+        "start_date": 2010.0,
+        "end_date": 2011.0,
+        "glacier_area": 10602.116,
+        "glacier_mass_change": -30.63731167132132,
+        "simulated_discharge": 500.0,
+        "latitude": 64.9631,
+        "longitude": -19.0208
+    },
+    {
+        "region": "6_iceland",
+        "start_date": 2011.0,
+        "end_date": 2012.0,
+        "glacier_area": 10562.3,
+        "glacier_mass_change": -8.189141762992667,
+        "simulated_discharge": 201.53769786557461,
+        "latitude": 64.9631,
+        "longitude": -19.0208
+    },
+    {
+        "region": "6_iceland",
+        "start_date": 2012.0,
+        "end_date": 2013.0,
+        "glacier_area": 10522.484,
+        "glacier_mass_change": -6.796645559090764,
+        "simulated_discharge": 183.02359963720127,
+        "latitude": 64.9631,
+        "longitude": -19.0208
+    },
+    {
+        "region": "6_iceland",
+        "start_date": 2013.0,
+        "end_date": 2014.0,
+        "glacier_area": 10482.668,
+        "glacier_mass_change": -1.841311036856554,
+        "simulated_discharge": 117.13936250820983,
+        "latitude": 64.9631,
+        "longitude": -19.0208
+    },
+    {
+        "region": "6_iceland",
+        "start_date": 2014.0,
+        "end_date": 2015.0,
+        "glacier_area": 10442.852,
+        "glacier_mass_change": -3.320306207595209,
+        "simulated_discharge": 136.80351799647445,
+        "latitude": 64.9631,
+        "longitude": -19.0208
+    },
+    {
+        "region": "6_iceland",
+        "start_date": 2015.0,
+        "end_date": 2016.0,
+        "glacier_area": 10403.036,
+        "glacier_mass_change": 6.969062312583269,
+        "simulated_discharge": 0.0,
+        "latitude": 64.9631,
+        "longitude": -19.0208
+    },
+    {
+        "region": "6_iceland",
+        "start_date": 2016.0,
+        "end_date": 2017.0,
+        "glacier_area": 10363.22,
+        "glacier_mass_change": -8.874125262517493,
+        "simulated_discharge": 210.64497712384605,
+        "latitude": 64.9631,
+        "longitude": -19.0208
+    },
+    {
+        "region": "6_iceland",
+        "start_date": 2017.0,
+        "end_date": 2018.0,
+        "glacier_area": 10323.404,
+        "glacier_mass_change": -2.088827327397081,
+        "simulated_discharge": 120.43024466885716,
+        "latitude": 64.9631,
+        "longitude": -19.0208
+    },
+    {
+        "region": "6_iceland",
+        "start_date": 2018.0,
+        "end_date": 2019.0,
+        "glacier_area": 10283.588,
+        "glacier_mass_change": -1.3218772112160089,
+        "simulated_discharge": 110.23316854940302,
+        "latitude": 64.9631,
+        "longitude": -19.0208
+    },
+    {
+        "region": "6_iceland",
+        "start_date": 2019.0,
+        "end_date": 2020.0,
+        "glacier_area": 10243.772,
+        "glacier_mass_change": -10.104679798740069,
+        "simulated_discharge": 227.00596072664231,
+        "latitude": 64.9631,
+        "longitude": -19.0208
+    },
+    {
+        "region": "6_iceland",
+        "start_date": 2020.0,
+        "end_date": 2021.0,
+        "glacier_area": 10203.956,
+        "glacier_mass_change": -9.140112202280346,
+        "simulated_discharge": 214.1814379891862,
+        "latitude": 64.9631,
+        "longitude": -19.0208
+    },
+    {
+        "region": "6_iceland",
+        "start_date": 2021.0,
+        "end_date": 2022.0,
+        "glacier_area": 10164.14,
+        "glacier_mass_change": -12.546547907083468,
+        "simulated_discharge": 259.4721074148143,
+        "latitude": 64.9631,
+        "longitude": -19.0208
+    },
+    {
+        "region": "6_iceland",
+        "start_date": 2022.0,
+        "end_date": 2023.0,
+        "glacier_area": 10124.324,
+        "glacier_mass_change": 1.975963970068084,
+        "simulated_discharge": 66.38633047488457,
+        "latitude": 64.9631,
+        "longitude": -19.0208
+    },
+    {
+        "region": "6_iceland",
+        "start_date": 2023.0,
+        "end_date": 2024.0,
+        "glacier_area": 10084.508,
+        "glacier_mass_change": -10.314387865321638,
+        "simulated_discharge": 229.79415916703599,
+        "latitude": 64.9631,
+        "longitude": -19.0208
+    }
+]
